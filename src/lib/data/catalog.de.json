@@ -225,8 +225,8 @@
         "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
       },
       {
-        "name": "Joyn",
-        "logo": "/3tKojIkk9QpkDUeU8HgpHQ9Jb2v.jpg"
+        "name": "Joyn Plus",
+        "logo": "/5aHLriu21FRDGlxY5zbzyEuoSvA.jpg"
       },
       {
         "name": "Kabel Eins Classics Amazon Channel",
@@ -260,8 +260,8 @@
         "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
       },
       {
-        "name": "Joyn Plus",
-        "logo": "/5aHLriu21FRDGlxY5zbzyEuoSvA.jpg"
+        "name": "Joyn",
+        "logo": "/3tKojIkk9QpkDUeU8HgpHQ9Jb2v.jpg"
       },
       {
         "name": "Kabel Eins Classics Amazon Channel",
@@ -349,7 +349,7 @@
     "releaseDate": "2011-04-21",
     "runtime": 115,
     "poster": "/wtHxoL3zFjIrjZBCGlRTb8ao1IW.jpg",
-    "backdrop": "/jWAJlgICJbn2kyohrokteRoD3cZ.jpg",
+    "backdrop": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -368,7 +368,7 @@
     "releaseDate": "2012-04-25",
     "runtime": 143,
     "poster": "/hGTqvK9WaI74szUDPMHXrrHfiH3.jpg",
-    "backdrop": "/pGFQCp12a8andfPlpnmXz44IIvY.jpg",
+    "backdrop": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -1252,7 +1252,7 @@
     "releaseDate": "2018-02-13",
     "runtime": 134,
     "poster": "/l6y476RPWK35Y7zmiMPcih4uU7A.jpg",
-    "backdrop": "/19Ed4XgjahPm4U8JT7SnntERIlt.jpg",
+    "backdrop": "/sIwFcU1pql5a3LdZGxsRKi9JfTL.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -1361,7 +1361,7 @@
     "releaseDate": "2017-10-02",
     "runtime": 131,
     "poster": "/8etFULS6CRN39vvXykQH1mUD1yB.jpg",
-    "backdrop": "/wBzMnQ01R9w58W6ucltdYfOyP4j.jpg",
+    "backdrop": "/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -1820,7 +1820,7 @@
     "releaseDate": "2019-06-28",
     "runtime": 130,
     "poster": "/mp2rchOm2nchJ3E3fPzTFzkuLd3.jpg",
-    "backdrop": "/34jW8LvjRplM8Pv06cBFDpLlenR.jpg",
+    "backdrop": "/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/429617-spider-man-far-from-home/watch?locale=DE"
   },
@@ -1892,7 +1892,7 @@
     "releaseDate": "2021-12-15",
     "runtime": 159,
     "poster": "/iNKf4D0AzOj9GLq8ZyG3WZaqibL.jpg",
-    "backdrop": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+    "backdrop": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/634649-spider-man-no-way-home/watch?locale=DE"
   },
@@ -2471,7 +2471,7 @@
     "releaseDate": "2023-11-08",
     "runtime": 105,
     "poster": "/9wweUjCitucpqiPVYisxEV2vKC6.jpg",
-    "backdrop": "/w4pRLYYbhHn3sh9kqRgPZM6GjyS.jpg",
+    "backdrop": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -2618,7 +2618,7 @@
     "releaseDate": "2024-07-24",
     "runtime": 127,
     "poster": "/h34b8gn6m1fzNpEhSpMZAgknwjX.jpg",
-    "backdrop": "/cOoVcVQ3i1m5b2xtqKBtoTSbxC1.jpg",
+    "backdrop": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -2653,7 +2653,7 @@
     "tmdbType": "tv",
     "title": "Daredevil: Born Again",
     "overview": "In \"Daredevil: Born Again\" Staffel 1 kehrt Daredevil, alias Matt Murdock, nach seiner Vergangenheit zurück, als der ehemalige Mafiaboss Wilson Fisk wieder in New York auftaucht und politische Macht anstrebt. Murdock, der nun als Anwalt arbeitet, gerät in einen Konflikt mit Fisk, als beide von ihren jeweiligen dunklen Seiten eingeholt werden.",
-    "releaseDate": "2025-03-02",
+    "releaseDate": "2025-03-04",
     "runtime": null,
     "poster": "/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg",
     "backdrop": "/m291MEBjhuRqb0nh9ojnm9gzScq.jpg",
@@ -2816,7 +2816,7 @@
     "tmdbId": 114471,
     "imdbId": "tt13623126",
     "tmdbType": "tv",
-    "title": "Marvels - Ironheart",
+    "title": "Ironheart",
     "overview": "Die geniale Erfinderin Riri Williams entwickelt die modernste Rüstung seit Iron Man und wird zu Ironheart.",
     "releaseDate": "2025-06-24",
     "runtime": null,
@@ -5569,7 +5569,7 @@
     "releaseDate": "2025-09-24",
     "runtime": null,
     "poster": "/wofiHMsXxmp0lTafcBrgciSxBVx.jpg",
-    "backdrop": "/kmenKs1yJZT1d3pRVu6T6m3kWCQ.jpg",
+    "backdrop": "/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
     "season": 1,
     "episodes": [
       {
@@ -5864,7 +5864,7 @@
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "releaseDate": "2026-12-16",
     "runtime": 165,
-    "poster": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+    "poster": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
     "backdrop": "/6KDDoTq8Vq3HuQHULzuvPiCJbMI.jpg",
     "providers": [],
     "watchLink": null

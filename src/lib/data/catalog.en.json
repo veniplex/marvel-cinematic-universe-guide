@@ -225,8 +225,8 @@
         "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
       },
       {
-        "name": "Joyn",
-        "logo": "/3tKojIkk9QpkDUeU8HgpHQ9Jb2v.jpg"
+        "name": "Joyn Plus",
+        "logo": "/5aHLriu21FRDGlxY5zbzyEuoSvA.jpg"
       },
       {
         "name": "Kabel Eins Classics Amazon Channel",
@@ -260,8 +260,8 @@
         "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
       },
       {
-        "name": "Joyn Plus",
-        "logo": "/5aHLriu21FRDGlxY5zbzyEuoSvA.jpg"
+        "name": "Joyn",
+        "logo": "/3tKojIkk9QpkDUeU8HgpHQ9Jb2v.jpg"
       },
       {
         "name": "Kabel Eins Classics Amazon Channel",
@@ -349,7 +349,7 @@
     "releaseDate": "2011-04-21",
     "runtime": 115,
     "poster": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
-    "backdrop": "/jWAJlgICJbn2kyohrokteRoD3cZ.jpg",
+    "backdrop": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -368,7 +368,7 @@
     "releaseDate": "2012-04-25",
     "runtime": 143,
     "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
-    "backdrop": "/pGFQCp12a8andfPlpnmXz44IIvY.jpg",
+    "backdrop": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -1252,7 +1252,7 @@
     "releaseDate": "2018-02-13",
     "runtime": 135,
     "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
-    "backdrop": "/19Ed4XgjahPm4U8JT7SnntERIlt.jpg",
+    "backdrop": "/sIwFcU1pql5a3LdZGxsRKi9JfTL.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -1361,7 +1361,7 @@
     "releaseDate": "2017-10-02",
     "runtime": 131,
     "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
-    "backdrop": "/wBzMnQ01R9w58W6ucltdYfOyP4j.jpg",
+    "backdrop": "/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -1820,7 +1820,7 @@
     "releaseDate": "2019-06-28",
     "runtime": 129,
     "poster": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
-    "backdrop": "/34jW8LvjRplM8Pv06cBFDpLlenR.jpg",
+    "backdrop": "/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/429617-spider-man-far-from-home/watch?locale=DE"
   },
@@ -1892,7 +1892,7 @@
     "releaseDate": "2021-12-15",
     "runtime": 148,
     "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-    "backdrop": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+    "backdrop": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/634649-spider-man-no-way-home/watch?locale=DE"
   },
@@ -2471,7 +2471,7 @@
     "releaseDate": "2023-11-08",
     "runtime": 105,
     "poster": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
-    "backdrop": "/w4pRLYYbhHn3sh9kqRgPZM6GjyS.jpg",
+    "backdrop": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -2618,7 +2618,7 @@
     "releaseDate": "2024-07-24",
     "runtime": 128,
     "poster": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
-    "backdrop": "/cOoVcVQ3i1m5b2xtqKBtoTSbxC1.jpg",
+    "backdrop": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -2653,7 +2653,7 @@
     "tmdbType": "tv",
     "title": "Daredevil: Born Again",
     "overview": "It has been a year since Matt Murdock retired from crime fighting as Daredevil. Wilson Fisk has been elected mayor of New York City after running on an anti-vigilante platform. The Kingpin may force Daredevil to come out of retirement.",
-    "releaseDate": "2025-03-02",
+    "releaseDate": "2025-03-04",
     "runtime": null,
     "poster": "/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg",
     "backdrop": "/m291MEBjhuRqb0nh9ojnm9gzScq.jpg",
@@ -3693,7 +3693,7 @@
     "overview": "Daredevil, Jessica Jones, Luke Cage and Iron Fist join forces to take on common enemies as a sinister conspiracy threatens New York City.",
     "releaseDate": "2017-08-18",
     "runtime": null,
-    "poster": "/tksYAmz3QLmfjts246V9YEs9Squ.jpg",
+    "poster": "/4COAMPA6LPkPBd1xdm9paN4LCD8.jpg",
     "backdrop": "/ycAWXhAhyaE7g3JBAaierK4LgNg.jpg",
     "season": 1,
     "episodes": [
@@ -5569,7 +5569,7 @@
     "releaseDate": "2025-09-24",
     "runtime": null,
     "poster": "/wofiHMsXxmp0lTafcBrgciSxBVx.jpg",
-    "backdrop": "/kmenKs1yJZT1d3pRVu6T6m3kWCQ.jpg",
+    "backdrop": "/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
     "season": 1,
     "episodes": [
       {
@@ -5850,8 +5850,8 @@
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "releaseDate": "2026-07-28",
     "runtime": 145,
-    "poster": "/x19dchU8e38vQfW4epzOsQNLuZ2.jpg",
-    "backdrop": "/h0M2JTPUlR64jkfXAhZeD9e7ZWF.jpg",
+    "poster": "/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
+    "backdrop": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
     "providers": [],
     "watchLink": null
   },
@@ -5864,7 +5864,7 @@
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "releaseDate": "2026-12-16",
     "runtime": 165,
-    "poster": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+    "poster": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
     "backdrop": "/6KDDoTq8Vq3HuQHULzuvPiCJbMI.jpg",
     "providers": [],
     "watchLink": null
