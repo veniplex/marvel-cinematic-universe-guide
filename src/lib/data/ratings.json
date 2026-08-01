@@ -1802,7 +1802,7 @@
     "rt": "78",
     "episodes": {
       "1-1": {
-        "imdb": "7.3",
+        "imdb": "7.2",
         "imdbId": "tt4270062"
       },
       "1-2": {
@@ -2887,5 +2887,12 @@
   },
   "spider-man-brand-new-day": {
     "imdb": "8.2"
+  },
+  "visionquest": {
+    "episodes": {
+      "1-1": {
+        "imdbId": "tt23134204"
+      }
+    }
   }
 }
