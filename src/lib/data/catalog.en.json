@@ -227,18 +227,6 @@
       {
         "name": "Joyn Plus",
         "logo": "/5aHLriu21FRDGlxY5zbzyEuoSvA.jpg"
-      },
-      {
-        "name": "Kabel Eins Classics Amazon Channel",
-        "logo": "/4H9Cr9iKiKwJkjBqJn4TgHu3ufL.jpg"
-      },
-      {
-        "name": "Seven Entertainment Amazon Channel",
-        "logo": "/91mdl623RUIlQGr3ZlbB6uxKM9W.jpg"
-      },
-      {
-        "name": "Magenta TV+",
-        "logo": "/qqTyjCCJuuARytrY7rNRAKka1VF.jpg"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/1726-iron-man/watch?locale=DE"
@@ -260,20 +248,8 @@
         "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
       },
       {
-        "name": "Joyn",
-        "logo": "/3tKojIkk9QpkDUeU8HgpHQ9Jb2v.jpg"
-      },
-      {
-        "name": "Kabel Eins Classics Amazon Channel",
-        "logo": "/4H9Cr9iKiKwJkjBqJn4TgHu3ufL.jpg"
-      },
-      {
-        "name": "Seven Entertainment Amazon Channel",
-        "logo": "/91mdl623RUIlQGr3ZlbB6uxKM9W.jpg"
-      },
-      {
-        "name": "Magenta TV+",
-        "logo": "/qqTyjCCJuuARytrY7rNRAKka1VF.jpg"
+        "name": "Joyn Plus",
+        "logo": "/5aHLriu21FRDGlxY5zbzyEuoSvA.jpg"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/10138-iron-man-2/watch?locale=DE"
@@ -413,20 +389,8 @@
         "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
       },
       {
-        "name": "Joyn Plus",
-        "logo": "/5aHLriu21FRDGlxY5zbzyEuoSvA.jpg"
-      },
-      {
-        "name": "Kabel Eins Classics Amazon Channel",
-        "logo": "/4H9Cr9iKiKwJkjBqJn4TgHu3ufL.jpg"
-      },
-      {
-        "name": "Seven Entertainment Amazon Channel",
-        "logo": "/91mdl623RUIlQGr3ZlbB6uxKM9W.jpg"
-      },
-      {
-        "name": "Magenta TV+",
-        "logo": "/qqTyjCCJuuARytrY7rNRAKka1VF.jpg"
+        "name": "Joyn",
+        "logo": "/3tKojIkk9QpkDUeU8HgpHQ9Jb2v.jpg"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/68721-iron-man-3/watch?locale=DE"
@@ -1290,7 +1254,7 @@
     "releaseDate": "2017-07-05",
     "runtime": 133,
     "poster": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
-    "backdrop": "/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
+    "backdrop": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/315635-spider-man-homecoming/watch?locale=DE"
   },
@@ -1341,8 +1305,8 @@
     "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
     "releaseDate": "2016-10-25",
     "runtime": 115,
-    "poster": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
-    "backdrop": "/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg",
+    "poster": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+    "backdrop": "/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -1437,7 +1401,7 @@
     "releaseDate": "2019-04-24",
     "runtime": 181,
     "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
-    "backdrop": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "backdrop": "/91iy9F1JOG1dvM6M6JNYgvScZpK.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -1834,7 +1798,7 @@
     "releaseDate": "2021-11-24",
     "runtime": null,
     "poster": "/nGcqeKieycPFvsxOeLJssCTt3mL.jpg",
-    "backdrop": "/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
+    "backdrop": "/9QNv2Al3GfCND8BwuLmu2GwVht7.jpg",
     "season": 1,
     "episodes": [
       {
@@ -1892,7 +1856,7 @@
     "releaseDate": "2021-12-15",
     "runtime": 148,
     "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-    "backdrop": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+    "backdrop": "/AeK2MPOpYrOOgZNfFnfwp0L8tNn.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/634649-spider-man-no-way-home/watch?locale=DE"
   },
@@ -5665,7 +5629,7 @@
     "providers": [
       {
         "name": "RTL+",
-        "logo": "/jmR0t1kjzHcyV7raynzMbF87J9d.jpg"
+        "logo": "/acZuR8b9gDqMQnNFoNn82NYk72X.jpg"
       },
       {
         "name": "RTL+ Max Amazon Channel",
@@ -5708,7 +5672,7 @@
       },
       {
         "name": "RTL+",
-        "logo": "/jmR0t1kjzHcyV7raynzMbF87J9d.jpg"
+        "logo": "/acZuR8b9gDqMQnNFoNn82NYk72X.jpg"
       },
       {
         "name": "RTL+ Max Amazon Channel",
@@ -5786,7 +5750,7 @@
     "providers": [
       {
         "name": "RTL+",
-        "logo": "/jmR0t1kjzHcyV7raynzMbF87J9d.jpg"
+        "logo": "/acZuR8b9gDqMQnNFoNn82NYk72X.jpg"
       },
       {
         "name": "RTL+ Max Amazon Channel",
@@ -5809,7 +5773,7 @@
     "providers": [
       {
         "name": "RTL+",
-        "logo": "/jmR0t1kjzHcyV7raynzMbF87J9d.jpg"
+        "logo": "/acZuR8b9gDqMQnNFoNn82NYk72X.jpg"
       },
       {
         "name": "RTL+ Max Amazon Channel",
@@ -5832,7 +5796,7 @@
     "providers": [
       {
         "name": "RTL+",
-        "logo": "/jmR0t1kjzHcyV7raynzMbF87J9d.jpg"
+        "logo": "/acZuR8b9gDqMQnNFoNn82NYk72X.jpg"
       },
       {
         "name": "RTL+ Max Amazon Channel",
@@ -5850,8 +5814,8 @@
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "releaseDate": "2026-07-28",
     "runtime": 145,
-    "poster": "/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
-    "backdrop": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+    "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+    "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
     "providers": [],
     "watchLink": null
   },
@@ -5865,7 +5829,7 @@
     "releaseDate": "2026-12-16",
     "runtime": 165,
     "poster": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
-    "backdrop": "/6KDDoTq8Vq3HuQHULzuvPiCJbMI.jpg",
+    "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "providers": [],
     "watchLink": null
   },
@@ -5875,7 +5839,7 @@
     "imdbId": "tt21361444",
     "tmdbType": "movie",
     "title": "Avengers: Secret Wars",
-    "overview": "An upcoming film in Phase Six of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga. Plot TBA.",
+    "overview": "An upcoming film in Phase Six of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga.",
     "releaseDate": "2027-12-16",
     "runtime": 0,
     "poster": "/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
