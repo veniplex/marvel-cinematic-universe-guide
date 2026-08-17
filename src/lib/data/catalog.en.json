@@ -1844,7 +1844,7 @@
     "releaseDate": "2021-12-15",
     "runtime": 148,
     "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-    "backdrop": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+    "backdrop": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/634649-spider-man-no-way-home/watch?locale=DE"
   },
@@ -2589,7 +2589,7 @@
     "releaseDate": "2025-02-12",
     "runtime": 119,
     "poster": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
-    "backdrop": "/ywe9S1cOyIhR5yWzK7511NuQ2YX.jpg",
+    "backdrop": "/ce3prrjh9ZehEl5JinNqr4jIeaB.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -2916,11 +2916,11 @@
     "imdbId": "tt23112594",
     "tmdbType": "tv",
     "title": "VisionQuest",
-    "overview": "After the events of WandaVision, White Vision struggles to connect with the memories given to him as he lacks the emotions or feelings associated with them.",
+    "overview": "The Vision, rebooted and having escaped from those who sought to weaponize him, has been in hiding. Searching for new meaning, he consults the AI personas embedded in his programming, including F.R.I.D.A.Y., E.D.I.T.H., J.A.R.V.I.S., and the infamous Ultron. His discreet existence ends when a bounty placed on his head thrusts him on the run with Thomas Shepard, a mysterious boy who may be Vision's son, reincarnate. As Vision evades capture, he must confront his nature, resist Ultron's influence, and unravel the enigma that is his young companion if he's to survive.",
     "releaseDate": "2026-10-14",
     "runtime": null,
-    "poster": "/6j60tGRAjBmWRPTOEwhW6oRbPMP.jpg",
-    "backdrop": "/hgo15B8eUnbEjszVV1qdV8sGz9S.jpg",
+    "poster": "/kSLKCUUsYXjXomMIPEFGcNbeByV.jpg",
+    "backdrop": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
     "season": 1,
     "episodes": [
       {
@@ -5280,7 +5280,7 @@
     "overview": "Picking up where 'X-Men' left off, the X-Men are in a period of transition, struggling with the loss of Professor X. And while their world is in a strained state of calm when it comes to mutant-human relations—everyone knows that's likely temporary.",
     "releaseDate": "2024-03-20",
     "runtime": null,
-    "poster": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
+    "poster": "/383PV0WolYYQvTriH0NfvMUA28R.jpg",
     "backdrop": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
     "season": 1,
     "episodes": [
@@ -5737,12 +5737,20 @@
     "backdrop": "/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg",
     "providers": [
       {
+        "name": "Amazon Prime Video",
+        "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+      },
+      {
         "name": "RTL+",
         "logo": "/acZuR8b9gDqMQnNFoNn82NYk72X.jpg"
       },
       {
         "name": "RTL+ Max Amazon Channel",
         "logo": "/8o737RzF49I8kOHe9ua3tLORIEf.jpg"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/634492-madame-web/watch?locale=DE"
@@ -5816,7 +5824,7 @@
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "releaseDate": "2026-12-16",
     "runtime": 165,
-    "poster": "/bh2OuKvq19jBHsloUVCfPSZZw81.jpg",
+    "poster": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
     "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "providers": [],
     "watchLink": null
@@ -5828,7 +5836,7 @@
     "tmdbType": "movie",
     "title": "Avengers: Secret Wars",
     "overview": "An upcoming film in Phase Six of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga.",
-    "releaseDate": "2027-09-15",
+    "releaseDate": "2027-12-15",
     "runtime": 0,
     "poster": "/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
     "backdrop": "/rytc6Lf4447C0CDncwFa4gxe0vY.jpg",
