@@ -257,16 +257,7 @@
     "runtime": 114,
     "poster": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
     "backdrop": "/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
-    "providers": [
-      {
-        "name": "Filmtastic Amazon Channel",
-        "logo": "/ni0t0Bj4HRAQ9f6zSv1Bl9MDjLK.jpg"
-      },
-      {
-        "name": "Filmtastic",
-        "logo": "/eptSSZPhXJllBI8QywFDmgOMNkU.jpg"
-      }
-    ],
+    "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/1724-the-incredible-hulk/watch?locale=DE"
   },
   "the-consultant": {
@@ -1844,7 +1835,7 @@
     "releaseDate": "2021-12-15",
     "runtime": 148,
     "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-    "backdrop": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+    "backdrop": "/uyrOU4BDm2kbVxFsMiDFIHDhc4d.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/634649-spider-man-no-way-home/watch?locale=DE"
   },
@@ -2919,8 +2910,8 @@
     "overview": "The Vision, rebooted and having escaped from those who sought to weaponize him, has been in hiding. Searching for new meaning, he consults the AI personas embedded in his programming, including F.R.I.D.A.Y., E.D.I.T.H., J.A.R.V.I.S., and the infamous Ultron. His discreet existence ends when a bounty placed on his head thrusts him on the run with Thomas Shepard, a mysterious boy who may be Vision's son, reincarnate. As Vision evades capture, he must confront his nature, resist Ultron's influence, and unravel the enigma that is his young companion if he's to survive.",
     "releaseDate": "2026-10-14",
     "runtime": null,
-    "poster": "/kSLKCUUsYXjXomMIPEFGcNbeByV.jpg",
-    "backdrop": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "poster": "/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+    "backdrop": "/v50p9hearMiu6BlYfp4O7FACmXl.jpg",
     "season": 1,
     "episodes": [
       {
@@ -5810,8 +5801,8 @@
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "releaseDate": "2026-07-29",
     "runtime": 145,
-    "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-    "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "poster": "/tV712n7bMaRuaKyltFl65HPNRiP.jpg",
+    "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
     "providers": [],
     "watchLink": null
   },
@@ -5824,7 +5815,7 @@
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "releaseDate": "2026-12-16",
     "runtime": 165,
-    "poster": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+    "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
     "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "providers": [],
     "watchLink": null
