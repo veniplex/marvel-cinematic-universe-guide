@@ -13,7 +13,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/1771-captain-america-the-first-avenger/watch?locale=DE"
@@ -32,7 +32,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/211387-marvel-one-shot-agent-carter/watch?locale=DE"
@@ -102,7 +102,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/61550-marvel-s-agent-carter/watch?locale=DE"
@@ -184,7 +184,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/61550-marvel-s-agent-carter/watch?locale=DE"
@@ -203,7 +203,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/299537-captain-marvel/watch?locale=DE"
@@ -222,7 +222,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/1726-iron-man/watch?locale=DE"
@@ -241,7 +241,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/10138-iron-man-2/watch?locale=DE"
@@ -257,7 +257,12 @@
     "runtime": 112,
     "poster": "/bwCgRJRq6WUjhXIvBZjSI1lglRv.jpg",
     "backdrop": "/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
+      }
+    ],
     "watchLink": "https://www.themoviedb.org/movie/1724-the-incredible-hulk/watch?locale=DE"
   },
   "the-consultant": {
@@ -274,7 +279,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/76122-marvel-one-shot-the-consultant/watch?locale=DE"
@@ -293,7 +298,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/76535-marvel-one-shot-a-funny-thing-happened-on-the-way-to-thor-s-hammer/watch?locale=DE"
@@ -312,7 +317,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/10195-thor/watch?locale=DE"
@@ -327,11 +332,11 @@
     "releaseDate": "2012-04-25",
     "runtime": 143,
     "poster": "/hGTqvK9WaI74szUDPMHXrrHfiH3.jpg",
-    "backdrop": "/gHLs7Fy3DzLmLsD4lmfqL55KGcl.jpg",
+    "backdrop": "/nNmJRkg8wWnRmzQDe2FwKbPIsJV.jpg",
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/24428-the-avengers/watch?locale=DE"
@@ -350,7 +355,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/119569-marvel-one-shot-item-47/watch?locale=DE"
@@ -369,7 +374,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/68721-iron-man-3/watch?locale=DE"
@@ -388,7 +393,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/253980-marvel-one-shot-all-hail-the-king/watch?locale=DE"
@@ -407,7 +412,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/76338-thor-the-dark-world/watch?locale=DE"
@@ -426,7 +431,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/100402-captain-america-the-winter-soldier/watch?locale=DE"
@@ -580,7 +585,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/1403-marvel-s-agents-of-s-h-i-e-l-d/watch?locale=DE"
@@ -734,7 +739,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/1403-marvel-s-agents-of-s-h-i-e-l-d/watch?locale=DE"
@@ -753,7 +758,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/118340-guardians-of-the-galaxy/watch?locale=DE"
@@ -768,11 +773,11 @@
     "releaseDate": "2017-04-25",
     "runtime": 137,
     "poster": "/ckujEWphKR2NG3vLLhUaLzJEGny.jpg",
-    "backdrop": "/bW93ycPSSi3Hxx1NvlMX5qm2mQu.jpg",
+    "backdrop": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2/watch?locale=DE"
@@ -824,7 +829,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/232125-i-am-groot/watch?locale=DE"
@@ -876,7 +881,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/232125-i-am-groot/watch?locale=DE"
@@ -976,7 +981,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/61889-marvel-s-daredevil/watch?locale=DE"
@@ -1076,7 +1081,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/38472-marvel-s-jessica-jones/watch?locale=DE"
@@ -1095,7 +1100,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/99861-avengers-age-of-ultron/watch?locale=DE"
@@ -1161,7 +1166,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/102899-ant-man/watch?locale=DE"
@@ -1180,7 +1185,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/271110-captain-america-civil-war/watch?locale=DE"
@@ -1199,7 +1204,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/284054-black-panther/watch?locale=DE"
@@ -1218,7 +1223,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/497698-black-widow/watch?locale=DE"
@@ -1251,7 +1256,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/413279-team-thor/watch?locale=DE"
@@ -1270,7 +1275,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/441829-team-thor-part-2/watch?locale=DE"
@@ -1289,7 +1294,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/284052-doctor-strange/watch?locale=DE"
@@ -1308,7 +1313,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/284053-thor-ragnarok/watch?locale=DE"
@@ -1327,7 +1332,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/505945-team-darryl/watch?locale=DE"
@@ -1346,7 +1351,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/363088-ant-man-and-the-wasp/watch?locale=DE"
@@ -1365,7 +1370,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/299536-avengers-infinity-war/watch?locale=DE"
@@ -1380,11 +1385,11 @@
     "releaseDate": "2019-04-24",
     "runtime": 181,
     "poster": "/ibO8Pj0aA1nwj3Q9FMpMcYZkdCA.jpg",
-    "backdrop": "/2xfV5Zdq4kCsFVReRXJKnJaUFCD.jpg",
+    "backdrop": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/299534-avengers-endgame/watch?locale=DE"
@@ -1442,7 +1447,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/84958-loki/watch?locale=DE"
@@ -1500,7 +1505,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/84958-loki/watch?locale=DE"
@@ -1576,7 +1581,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/91363-what-if/watch?locale=DE"
@@ -1652,7 +1657,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/85271-wandavision/watch?locale=DE"
@@ -1710,7 +1715,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/88396-the-falcon-and-the-winter-soldier/watch?locale=DE"
@@ -1729,7 +1734,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/566525-shang-chi-and-the-legend-of-the-ten-rings/watch?locale=DE"
@@ -1748,7 +1753,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/524434-eternals/watch?locale=DE"
@@ -1820,7 +1825,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/88329-hawkeye/watch?locale=DE"
@@ -1853,7 +1858,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/453395-doctor-strange-in-the-multiverse-of-madness/watch?locale=DE"
@@ -1911,7 +1916,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/92749-moon-knight/watch?locale=DE"
@@ -1969,7 +1974,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/92782-ms-marvel/watch?locale=DE"
@@ -1988,7 +1993,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/616037-thor-love-and-thunder/watch?locale=DE"
@@ -2064,7 +2069,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/92783-she-hulk-attorney-at-law/watch?locale=DE"
@@ -2083,7 +2088,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/894205-werewolf-by-night/watch?locale=DE"
@@ -2102,7 +2107,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/505642-black-panther-wakanda-forever/watch?locale=DE"
@@ -2121,7 +2126,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/774752-the-guardians-of-the-galaxy-holiday-special/watch?locale=DE"
@@ -2221,7 +2226,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/1403-marvel-s-agents-of-s-h-i-e-l-d/watch?locale=DE"
@@ -2303,7 +2308,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/88987-helstrom/watch?locale=DE"
@@ -2318,11 +2323,11 @@
     "releaseDate": "2023-02-15",
     "runtime": 125,
     "poster": "/j3C9sEaEmqFqoZmnzQMFzKbLuNQ.jpg",
-    "backdrop": "/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
+    "backdrop": "/7WxVKp35lxxGUin8eLvTkDcr5Ke.jpg",
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/640146-ant-man-and-the-wasp-quantumania/watch?locale=DE"
@@ -2341,7 +2346,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3/watch?locale=DE"
@@ -2399,7 +2404,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/114472-secret-invasion/watch?locale=DE"
@@ -2418,7 +2423,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/609681-the-marvels/watch?locale=DE"
@@ -2470,7 +2475,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/122226-echo/watch?locale=DE"
@@ -2546,7 +2551,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/138501-agatha-all-along/watch?locale=DE"
@@ -2565,7 +2570,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/533535-deadpool-wolverine/watch?locale=DE"
@@ -2584,7 +2589,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/822119-captain-america-brave-new-world/watch?locale=DE"
@@ -2660,7 +2665,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/202555-daredevil-born-again/watch?locale=DE"
@@ -2730,7 +2735,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/202555-daredevil-born-again/watch?locale=DE"
@@ -2749,7 +2754,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/986056-thunderbolts/watch?locale=DE"
@@ -2807,7 +2812,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/114471-ironheart/watch?locale=DE"
@@ -2826,7 +2831,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/617126-the-fantastic-4-first-steps/watch?locale=DE"
@@ -2896,7 +2901,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/198178-wonder-man/watch?locale=DE"
@@ -3115,7 +3120,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/1403-marvel-s-agents-of-s-h-i-e-l-d/watch?locale=DE"
@@ -3215,7 +3220,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/61889-marvel-s-daredevil/watch?locale=DE"
@@ -3369,7 +3374,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/1403-marvel-s-agents-of-s-h-i-e-l-d/watch?locale=DE"
@@ -3522,7 +3527,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/62126-marvel-s-luke-cage/watch?locale=DE"
@@ -3622,7 +3627,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/62127-marvel-s-iron-fist/watch?locale=DE"
@@ -3692,7 +3697,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/62285-marvel-s-the-defenders/watch?locale=DE"
@@ -3762,7 +3767,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/68716-marvel-s-inhumans/watch?locale=DE"
@@ -3777,7 +3782,7 @@
     "releaseDate": "2017-11-17",
     "runtime": 53,
     "poster": "/dOkJ6TJKQjsz2XwXyp2VYpkeE5g.jpg",
-    "backdrop": "/jBGjbSDRxOEudW9rmQbWDzJUKq9.jpg",
+    "backdrop": "/9czVEnJemvP6gcJlMEjUeuISL1c.jpg",
     "season": 1,
     "episodes": [
       {
@@ -3862,7 +3867,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/67178-marvel-s-the-punisher/watch?locale=DE"
@@ -4093,7 +4098,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/1403-marvel-s-agents-of-s-h-i-e-l-d/watch?locale=DE"
@@ -4193,7 +4198,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/38472-marvel-s-jessica-jones/watch?locale=DE"
@@ -4275,7 +4280,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/66190-marvel-s-cloak-dagger/watch?locale=DE"
@@ -4375,7 +4380,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/62126-marvel-s-luke-cage/watch?locale=DE"
@@ -4457,7 +4462,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/62127-marvel-s-iron-fist/watch?locale=DE"
@@ -4557,7 +4562,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/61889-marvel-s-daredevil/watch?locale=DE"
@@ -4667,7 +4672,7 @@
     "releaseDate": "2019-01-18",
     "runtime": 53,
     "poster": "/agNYq5XZnGfmYetUMyyM2RdPY70.jpg",
-    "backdrop": "/jBGjbSDRxOEudW9rmQbWDzJUKq9.jpg",
+    "backdrop": "/9czVEnJemvP6gcJlMEjUeuISL1c.jpg",
     "season": 2,
     "episodes": [
       {
@@ -4752,7 +4757,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/67178-marvel-s-the-punisher/watch?locale=DE"
@@ -4834,7 +4839,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/66190-marvel-s-cloak-dagger/watch?locale=DE"
@@ -4934,7 +4939,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/1403-marvel-s-agents-of-s-h-i-e-l-d/watch?locale=DE"
@@ -5034,7 +5039,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/38472-marvel-s-jessica-jones/watch?locale=DE"
@@ -5187,7 +5192,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/91363-what-if/watch?locale=DE"
@@ -5257,7 +5262,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/91363-what-if/watch?locale=DE"
@@ -5339,7 +5344,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/138502-x-men-97/watch?locale=DE"
@@ -5415,7 +5420,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/138502-x-men-97/watch?locale=DE"
@@ -5497,7 +5502,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/138503-your-friendly-neighborhood-spider-man/watch?locale=DE"
@@ -5543,7 +5548,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/138505-marvel-zombies/watch?locale=DE"
@@ -5589,7 +5594,7 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/tv/241388-eyes-of-wakanda/watch?locale=DE"
@@ -5608,27 +5613,15 @@
     "providers": [
       {
         "name": "RTL+",
-        "logo": "/acZuR8b9gDqMQnNFoNn82NYk72X.jpg"
+        "logo": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png"
       },
       {
         "name": "RTL+ Max Amazon Channel",
-        "logo": "/8o737RzF49I8kOHe9ua3tLORIEf.jpg"
-      },
-      {
-        "name": "WOW",
-        "logo": "/9r5zFWuYnwjzO1JrNjSbLQwUc3P.jpg"
-      },
-      {
-        "name": "Sky Go",
-        "logo": "/vDdk3LyjWkYlfCtkrhkjFKFK1Hg.jpg"
+        "logo": "/4a1AfcgwF3QeEmRkgbpFj3QZdJn.png"
       },
       {
         "name": "Magenta TV+",
-        "logo": "/qqTyjCCJuuARytrY7rNRAKka1VF.jpg"
-      },
-      {
-        "name": "Wow Fiction Amazon Channel",
-        "logo": "/35XbldCPO3ztCREajGbfhf7827w.jpg"
+        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/335983-venom/watch?locale=DE"
@@ -5647,27 +5640,15 @@
     "providers": [
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       },
       {
         "name": "RTL+",
-        "logo": "/acZuR8b9gDqMQnNFoNn82NYk72X.jpg"
+        "logo": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png"
       },
       {
         "name": "RTL+ Max Amazon Channel",
-        "logo": "/8o737RzF49I8kOHe9ua3tLORIEf.jpg"
-      },
-      {
-        "name": "Sky Go",
-        "logo": "/vDdk3LyjWkYlfCtkrhkjFKFK1Hg.jpg"
-      },
-      {
-        "name": "Filmtastic Amazon Channel",
-        "logo": "/ni0t0Bj4HRAQ9f6zSv1Bl9MDjLK.jpg"
-      },
-      {
-        "name": "Wow Fiction Amazon Channel",
-        "logo": "/35XbldCPO3ztCREajGbfhf7827w.jpg"
+        "logo": "/4a1AfcgwF3QeEmRkgbpFj3QZdJn.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/580489-venom-let-there-be-carnage/watch?locale=DE"
@@ -5686,31 +5667,31 @@
     "providers": [
       {
         "name": "Amazon Prime Video",
-        "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
       },
       {
         "name": "Disney Plus",
-        "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       },
       {
         "name": "WOW",
-        "logo": "/9r5zFWuYnwjzO1JrNjSbLQwUc3P.jpg"
+        "logo": "/2o26YwA7tXQ7I6CSrMvO9Rj4oNi.png"
       },
       {
         "name": "Amazon Prime Video with Ads",
-        "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+        "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
       },
       {
         "name": "Magenta TV+",
-        "logo": "/qqTyjCCJuuARytrY7rNRAKka1VF.jpg"
+        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       },
       {
         "name": "Wow Fiction Amazon Channel",
-        "logo": "/35XbldCPO3ztCREajGbfhf7827w.jpg"
+        "logo": "/mIR4wc2DLEIbn9TbtemvoX4zb26.png"
       },
       {
         "name": "Sony Pictures Core Amazon Channel",
-        "logo": "/b9HLm1GDP4j3PF9TZQercD0r8kg.jpg"
+        "logo": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/526896-morbius/watch?locale=DE"
@@ -5729,19 +5710,19 @@
     "providers": [
       {
         "name": "Amazon Prime Video",
-        "logo": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-      },
-      {
-        "name": "RTL+",
-        "logo": "/acZuR8b9gDqMQnNFoNn82NYk72X.jpg"
-      },
-      {
-        "name": "RTL+ Max Amazon Channel",
-        "logo": "/8o737RzF49I8kOHe9ua3tLORIEf.jpg"
+        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
       },
       {
         "name": "Amazon Prime Video with Ads",
-        "logo": "/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+        "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+      },
+      {
+        "name": "RTL+",
+        "logo": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png"
+      },
+      {
+        "name": "RTL+ Max Amazon Channel",
+        "logo": "/4a1AfcgwF3QeEmRkgbpFj3QZdJn.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/634492-madame-web/watch?locale=DE"
@@ -5760,11 +5741,11 @@
     "providers": [
       {
         "name": "RTL+",
-        "logo": "/acZuR8b9gDqMQnNFoNn82NYk72X.jpg"
+        "logo": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png"
       },
       {
         "name": "RTL+ Max Amazon Channel",
-        "logo": "/8o737RzF49I8kOHe9ua3tLORIEf.jpg"
+        "logo": "/4a1AfcgwF3QeEmRkgbpFj3QZdJn.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/912649-venom-the-last-dance/watch?locale=DE"
@@ -5783,11 +5764,11 @@
     "providers": [
       {
         "name": "RTL+",
-        "logo": "/acZuR8b9gDqMQnNFoNn82NYk72X.jpg"
+        "logo": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png"
       },
       {
         "name": "RTL+ Max Amazon Channel",
-        "logo": "/8o737RzF49I8kOHe9ua3tLORIEf.jpg"
+        "logo": "/4a1AfcgwF3QeEmRkgbpFj3QZdJn.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/539972-kraven-the-hunter/watch?locale=DE"
@@ -5802,7 +5783,7 @@
     "releaseDate": "2026-07-29",
     "runtime": 150,
     "poster": "/mFD3aitQ9rVM6u01xWDL2vYCKLE.jpg",
-    "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+    "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
     "providers": [],
     "watchLink": null
   },
