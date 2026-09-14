@@ -223,6 +223,22 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
+      },
+      {
+        "name": "Kabel Eins Classics Amazon Channel",
+        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
+      },
+      {
+        "name": "Seven Entertainment Amazon Channel",
+        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
+      },
+      {
+        "name": "Magenta TV+",
+        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/1726-iron-man/watch?locale=DE"
@@ -242,6 +258,22 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
+      },
+      {
+        "name": "Kabel Eins Classics Amazon Channel",
+        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
+      },
+      {
+        "name": "Seven Entertainment Amazon Channel",
+        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
+      },
+      {
+        "name": "Magenta TV+",
+        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/10138-iron-man-2/watch?locale=DE"
@@ -332,7 +364,7 @@
     "releaseDate": "2012-04-25",
     "runtime": 143,
     "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
-    "backdrop": "/nNmJRkg8wWnRmzQDe2FwKbPIsJV.jpg",
+    "backdrop": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -375,6 +407,18 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Kabel Eins Classics Amazon Channel",
+        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
+      },
+      {
+        "name": "Seven Entertainment Amazon Channel",
+        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
+      },
+      {
+        "name": "Magenta TV+",
+        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/68721-iron-man-3/watch?locale=DE"
@@ -1181,7 +1225,7 @@
     "releaseDate": "2016-04-27",
     "runtime": 147,
     "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
-    "backdrop": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+    "backdrop": "/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -1384,12 +1428,16 @@
     "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
     "releaseDate": "2019-04-24",
     "runtime": 181,
-    "poster": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
     "backdrop": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
     "providers": [
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/299534-avengers-endgame/watch?locale=DE"
@@ -1782,7 +1830,7 @@
     "releaseDate": "2021-11-24",
     "runtime": null,
     "poster": "/nGcqeKieycPFvsxOeLJssCTt3mL.jpg",
-    "backdrop": "/9QNv2Al3GfCND8BwuLmu2GwVht7.jpg",
+    "backdrop": "/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
     "season": 1,
     "episodes": [
       {
@@ -1840,7 +1888,7 @@
     "releaseDate": "2021-12-15",
     "runtime": 148,
     "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-    "backdrop": "/uyrOU4BDm2kbVxFsMiDFIHDhc4d.jpg",
+    "backdrop": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/634649-spider-man-no-way-home/watch?locale=DE"
   },
@@ -2084,7 +2132,7 @@
     "releaseDate": "2022-09-25",
     "runtime": 55,
     "poster": "/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg",
-    "backdrop": "/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
+    "backdrop": "/l1ORpdYr8uFZ9MNYKoq1p6fIc4M.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -2108,6 +2156,10 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/505642-black-panther-wakanda-forever/watch?locale=DE"
@@ -2323,11 +2375,15 @@
     "releaseDate": "2023-02-15",
     "runtime": 125,
     "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
-    "backdrop": "/7WxVKp35lxxGUin8eLvTkDcr5Ke.jpg",
+    "backdrop": "/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
     "providers": [
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/640146-ant-man-and-the-wasp-quantumania/watch?locale=DE"
@@ -2571,6 +2627,10 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/533535-deadpool-wolverine/watch?locale=DE"
@@ -5609,8 +5669,12 @@
     "releaseDate": "2018-09-28",
     "runtime": 112,
     "poster": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
-    "backdrop": "/hNsYUryiwxcdeTMkaBcPF3iEg0p.jpg",
+    "backdrop": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
     "providers": [
+      {
+        "name": "Joyn",
+        "logo": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png"
+      },
       {
         "name": "RTL+",
         "logo": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png"
@@ -5783,7 +5847,7 @@
     "releaseDate": "2026-07-29",
     "runtime": 145,
     "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
     "providers": [],
     "watchLink": null
   },
@@ -5796,7 +5860,7 @@
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "releaseDate": "2026-12-16",
     "runtime": 165,
-    "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "poster": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
     "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "providers": [],
     "watchLink": null

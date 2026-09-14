@@ -223,6 +223,22 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
+      },
+      {
+        "name": "Kabel Eins Classics Amazon Channel",
+        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
+      },
+      {
+        "name": "Seven Entertainment Amazon Channel",
+        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
+      },
+      {
+        "name": "Magenta TV+",
+        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/1726-iron-man/watch?locale=DE"
@@ -242,6 +258,22 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
+      },
+      {
+        "name": "Kabel Eins Classics Amazon Channel",
+        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
+      },
+      {
+        "name": "Seven Entertainment Amazon Channel",
+        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
+      },
+      {
+        "name": "Magenta TV+",
+        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/10138-iron-man-2/watch?locale=DE"
@@ -331,8 +363,8 @@
     "overview": "Nick Fury ist der Anführer der Organisation S.H.I.E.L.D., einer internationalen Friedensorganisation. Die Behörde ist ein Who's Who der Marvel Superhelden, mit Iron Man, Thor, Captain America, Hawkeye, dem Unglaublichen Hulk und Black Widow. Als die weltweite Sicherheit von Thors sinistrem Halbbruder Loki und seiner Schar bedroht wird, werden Nick Fury und sein Team all ihre Kräfte brauchen, um die Welt vor einer Katastrophe zu bewahren ...",
     "releaseDate": "2012-04-25",
     "runtime": 143,
-    "poster": "/hGTqvK9WaI74szUDPMHXrrHfiH3.jpg",
-    "backdrop": "/nNmJRkg8wWnRmzQDe2FwKbPIsJV.jpg",
+    "poster": "/nwdcPGzBtex0XSOhG8vryGXKByZ.jpg",
+    "backdrop": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -375,6 +407,18 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Kabel Eins Classics Amazon Channel",
+        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
+      },
+      {
+        "name": "Seven Entertainment Amazon Channel",
+        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
+      },
+      {
+        "name": "Magenta TV+",
+        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/68721-iron-man-3/watch?locale=DE"
@@ -1181,7 +1225,7 @@
     "releaseDate": "2016-04-27",
     "runtime": 147,
     "poster": "/7iB1ow4vPLRJ9UOnIwvEFQwRHHr.jpg",
-    "backdrop": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+    "backdrop": "/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -1365,7 +1409,7 @@
     "overview": "Der mächtige Titan Thanos  hat es sich zur Aufgabe gemacht das halbe Universum auszulöschen. Um diesen perfiden Plan Realität werden zu lassen, benötigt er allerdings zuerst alle sechs Infinity-Steine, die ihm in Verbindung mit einem speziell gefertigten Handschuh, gottgleiche Kräfte verleihen. Da sich unglücklicherweise auch auf der Erde zwei dieser Steine befinden, betraut er seine treu ergebene Black Order mit deren Beschaffung. Sowohl die Avengers, als auch die Guardians of the Galaxy und Thor erfahren jedoch von Thanos' Plänen und stellen sich dem Schurken entgegen. Doch mit einen derart mächtigen Gegner hatte es bisher keiner von ihnen zu tun...",
     "releaseDate": "2018-04-25",
     "runtime": 150,
-    "poster": "/uoXC8LdLIjF3wyXNGVSwQ6JMaDb.jpg",
+    "poster": "/7ZiYamr5yP7qKht30rfpFj4iakA.jpg",
     "backdrop": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
     "providers": [
       {
@@ -1390,6 +1434,10 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/299534-avengers-endgame/watch?locale=DE"
@@ -1782,7 +1830,7 @@
     "releaseDate": "2021-11-24",
     "runtime": null,
     "poster": "/nGcqeKieycPFvsxOeLJssCTt3mL.jpg",
-    "backdrop": "/9QNv2Al3GfCND8BwuLmu2GwVht7.jpg",
+    "backdrop": "/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
     "season": 1,
     "episodes": [
       {
@@ -1840,7 +1888,7 @@
     "releaseDate": "2021-12-15",
     "runtime": 159,
     "poster": "/iNKf4D0AzOj9GLq8ZyG3WZaqibL.jpg",
-    "backdrop": "/uyrOU4BDm2kbVxFsMiDFIHDhc4d.jpg",
+    "backdrop": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/634649-spider-man-no-way-home/watch?locale=DE"
   },
@@ -1853,7 +1901,7 @@
     "overview": "Eigentlich wollte Doctor Strange nur seiner Ex-Freundin Christine zur Hochzeit gratulieren. Zum Feiern ist jedoch keine Zeit: Ein riesiges Monster droht, die Stadt in Schutt und Asche zu legen. Ziel des Wesens ist die Teenagerin America Chavez, welche die außergewöhnliche Gabe besitzt, zwischen Paralleluniversen reisen zu können. Zusammen mit dem Obersten Zauberer Wong versucht Strange das Mädchen zu beschützen und dafür zu sorgen, dass ihre mächtige aber zugleich gefährliche Fähigkeit nicht in die falschen Hände gerät.",
     "releaseDate": "2022-05-04",
     "runtime": 126,
-    "poster": "/eMMK2IZ2kWCOO9OwUOhwORkrpOw.jpg",
+    "poster": "/nRDLWnkyMpG2OnI9ZsV11y7Dh28.jpg",
     "backdrop": "/lv3TXqhpaIxkclIHbhN2MRMOemQ.jpg",
     "providers": [
       {
@@ -2084,7 +2132,7 @@
     "releaseDate": "2022-09-25",
     "runtime": 60,
     "poster": "/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg",
-    "backdrop": "/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
+    "backdrop": "/l1ORpdYr8uFZ9MNYKoq1p6fIc4M.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -2102,12 +2150,16 @@
     "overview": "Der König ist tot! König T'Challa, der als Black Panther auch Mitglied der Avengers-Heldentruppe war, stirbt an einer unbekannten Krankheit und ganz Wakanda ist in Trauer. Die Weltgemeinschaft sieht ihre Chance gekommen, um das vermeintlich geschwächte Königreich endlich zu Zugeständnissen bei der Lieferung des mächtigen Minerals Vibranium zu bewegen - und scheut dabei auch vor bewaffneten Überfällen nicht zurück. Doch Königin Ramonda bleibt standhaft und weist die Staatsoberhäupter in ihre Schranken. Wakanda wird auch ohne König T'Challa und den Black Panther weiter existieren und nicht vor anderen Nationen buckeln. Zur selben Zeit haben die USA mithilfe der erst 19 Jahre alten MIT-Studentin Riri Williams ein Gerät zur Aufspürung von Vibranium entwickelt und werden auch auf dem Grund des Meeres fündig. Angeführt von König Namor, bereitet sich das unter dem Meer lebende Volk der Talokanil aus dem Königreich Talokan darauf vor, einen Krieg mit den Landbewohnern zu beginnen.",
     "releaseDate": "2022-11-09",
     "runtime": 155,
-    "poster": "/vo9QISNKYtDN40VKfQkPxbMOO9j.jpg",
+    "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
     "backdrop": "/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
     "providers": [
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/505642-black-panther-wakanda-forever/watch?locale=DE"
@@ -2323,11 +2375,15 @@
     "releaseDate": "2023-02-15",
     "runtime": 125,
     "poster": "/j3C9sEaEmqFqoZmnzQMFzKbLuNQ.jpg",
-    "backdrop": "/7WxVKp35lxxGUin8eLvTkDcr5Ke.jpg",
+    "backdrop": "/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
     "providers": [
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/640146-ant-man-and-the-wasp-quantumania/watch?locale=DE"
@@ -2565,12 +2621,16 @@
     "overview": "Seit Jahren träumt Deadpool davon, ein Avenger zu werden – und nun bietet ihm der zwielichtige TVA-Agent Mr. Paradox an, in die heilige Zeitlinie zu wechseln, um dort Teil des MCU zu sein. Doch dafür muss der vorlaute Söldner ein großes Opfer bringen: Seine Welt wird ausgelöscht. Weil Deadpool dies nicht zulassen will, schickt Mr. Paradox ihn und eine von Deadpool rekrutierte, abgehalfterte Variante von Wolverine in die Leere – die große Müllhalde aller Universen. Dort hat die finstere Cassandra Nova ein Schreckens-Regime errichtet. Deadpool ist klar: Will er seine Welt, all seine Freunde und seine große Liebe Vanessa retten, muss er an ihr vorbei und auch Mr. Paradox aufhalten. Doch dazu muss er erst einmal den verbitterten Wolverine überzeugen, ihm zu helfen …",
     "releaseDate": "2024-07-24",
     "runtime": 127,
-    "poster": "/h34b8gn6m1fzNpEhSpMZAgknwjX.jpg",
+    "poster": "/chDpMyvXNDFMhg3yUknITnGUCUk.jpg",
     "backdrop": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
     "providers": [
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/533535-deadpool-wolverine/watch?locale=DE"
@@ -5609,8 +5669,12 @@
     "releaseDate": "2018-09-28",
     "runtime": 112,
     "poster": "/e8XOhZTizIl4vTzOYqaUWIhI5iC.jpg",
-    "backdrop": "/hNsYUryiwxcdeTMkaBcPF3iEg0p.jpg",
+    "backdrop": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
     "providers": [
+      {
+        "name": "Joyn",
+        "logo": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png"
+      },
       {
         "name": "RTL+",
         "logo": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png"
@@ -5783,7 +5847,7 @@
     "releaseDate": "2026-07-29",
     "runtime": 150,
     "poster": "/mFD3aitQ9rVM6u01xWDL2vYCKLE.jpg",
-    "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
     "providers": [],
     "watchLink": null
   },
@@ -5796,7 +5860,7 @@
     "overview": "Geliebte Helden aus drei unterschiedlichen Universen befinden sich auf einem tödlichen Kollisionskurs und sehen sich einer existenziellen Bedrohung gegenüber, wie sie sie noch nie zuvor erlebt haben.",
     "releaseDate": "2026-12-16",
     "runtime": 165,
-    "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "poster": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
     "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "providers": [],
     "watchLink": null
