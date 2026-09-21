@@ -288,7 +288,7 @@
     "releaseDate": "2008-06-12",
     "runtime": 114,
     "poster": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
-    "backdrop": "/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
+    "backdrop": "/xfBnQ4mgf1jYZsscJGJjr6ce0Ar.jpg",
     "providers": [
       {
         "name": "Joyn Plus",
@@ -409,6 +409,10 @@
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       },
       {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
+      },
+      {
         "name": "Kabel Eins Classics Amazon Channel",
         "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
       },
@@ -452,7 +456,7 @@
     "releaseDate": "2013-10-30",
     "runtime": 112,
     "poster": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
-    "backdrop": "/5QEOy0QEpad9QsXeMxuGHPXMale.jpg",
+    "backdrop": "/5o88bbqcV5STn56jqOeovaaWbAE.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -1644,7 +1648,7 @@
     "releaseDate": "2021-01-15",
     "runtime": null,
     "poster": "/8BSVNGpZwZDScVv8e5S1c8XIjeJ.jpg",
-    "backdrop": "/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
+    "backdrop": "/cq62fLH3vwOmiaLKMqkDI86tPtH.jpg",
     "season": 1,
     "episodes": [
       {
@@ -1830,7 +1834,7 @@
     "releaseDate": "2021-11-24",
     "runtime": null,
     "poster": "/nGcqeKieycPFvsxOeLJssCTt3mL.jpg",
-    "backdrop": "/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
+    "backdrop": "/uHESULlKh7VSc0MRcqfyIf9Alk4.jpg",
     "season": 1,
     "episodes": [
       {
@@ -2989,13 +2993,13 @@
         "season": 1,
         "number": 2,
         "title": "Episode 2",
-        "airDate": null
+        "airDate": "2026-10-21"
       },
       {
         "season": 1,
         "number": 3,
         "title": "Episode 3",
-        "airDate": null
+        "airDate": "2026-10-28"
       },
       {
         "season": 1,
@@ -5707,6 +5711,10 @@
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       },
       {
+        "name": "Joyn",
+        "logo": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png"
+      },
+      {
         "name": "RTL+",
         "logo": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png"
       },
@@ -5827,6 +5835,10 @@
     "backdrop": "/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg",
     "providers": [
       {
+        "name": "Joyn",
+        "logo": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png"
+      },
+      {
         "name": "RTL+",
         "logo": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png"
       },
@@ -5847,7 +5859,7 @@
     "releaseDate": "2026-07-29",
     "runtime": 145,
     "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+    "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
     "providers": [],
     "watchLink": null
   },
@@ -5860,7 +5872,7 @@
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "releaseDate": "2026-12-16",
     "runtime": 165,
-    "poster": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+    "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
     "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "providers": [],
     "watchLink": null
