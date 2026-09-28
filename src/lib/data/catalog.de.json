@@ -1438,10 +1438,6 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
-      },
-      {
-        "name": "Joyn Plus",
-        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/299534-avengers-endgame/watch?locale=DE"
@@ -2160,10 +2156,6 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
-      },
-      {
-        "name": "Joyn Plus",
-        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/505642-black-panther-wakanda-forever/watch?locale=DE"
@@ -2384,10 +2376,6 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
-      },
-      {
-        "name": "Joyn Plus",
-        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/640146-ant-man-and-the-wasp-quantumania/watch?locale=DE"
@@ -2631,10 +2619,6 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
-      },
-      {
-        "name": "Joyn Plus",
-        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/533535-deadpool-wolverine/watch?locale=DE"
@@ -2993,19 +2977,19 @@
         "season": 1,
         "number": 2,
         "title": "Folge 2",
-        "airDate": "2026-10-21"
+        "airDate": "2026-10-14"
       },
       {
         "season": 1,
         "number": 3,
         "title": "Folge 3",
-        "airDate": "2026-10-28"
+        "airDate": "2026-10-21"
       },
       {
         "season": 1,
         "number": 4,
         "title": "Folge 4",
-        "airDate": null
+        "airDate": "2026-10-28"
       },
       {
         "season": 1,
@@ -5872,7 +5856,7 @@
     "overview": "Geliebte Helden aus drei unterschiedlichen Universen befinden sich auf einem tödlichen Kollisionskurs und sehen sich einer existenziellen Bedrohung gegenüber, wie sie sie noch nie zuvor erlebt haben.",
     "releaseDate": "2026-12-16",
     "runtime": 165,
-    "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "poster": "/40jN1UgNAYEkGt2M0i81ghLF3cc.jpg",
     "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "providers": [],
     "watchLink": null
