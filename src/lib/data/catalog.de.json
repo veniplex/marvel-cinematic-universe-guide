@@ -217,7 +217,7 @@
     "overview": "Der Großindustrielle und Erfinder Tony Stark weiß zu leben: Als Milliardär liegen ihm die Frauen zu Füßen, er feiert Partys im Privatjet und verspielt Riesensummen im Casino, während seine Rüstungsfirma unter Obadiah Stane Rekordumsätze erzielt. Bei einem Waffentestlauf in Afghanistan wird er jedoch Opfer eines Bombenanschlags. Stark überlebt schwer verletzt und wird von einer Gruppe Aufständischer unter Führung des Warlords Raza dazu gezwungen, eine Superwaffe zu entwickeln. Es gelingt ihm jedoch, heimlich eine eiserne Schutzrüstung zu bauen, die ihn dank neuster Technologie zu Superkräften befähigt. Nach einer spektakulären Flucht zurück in die USA muss sich der Iron Man allerdings einem ersten übermächtigen Gegner stellen.",
     "releaseDate": "2008-04-30",
     "runtime": 125,
-    "poster": "/ueGAjn2cR1nc1f2i8VjIhpiP73E.jpg",
+    "poster": "/wyEqQ7dvnYPR0z8M8ZDW5VSvRwZ.jpg",
     "backdrop": "/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
     "providers": [
       {
@@ -363,7 +363,7 @@
     "overview": "Nick Fury ist der Anführer der Organisation S.H.I.E.L.D., einer internationalen Friedensorganisation. Die Behörde ist ein Who's Who der Marvel Superhelden, mit Iron Man, Thor, Captain America, Hawkeye, dem Unglaublichen Hulk und Black Widow. Als die weltweite Sicherheit von Thors sinistrem Halbbruder Loki und seiner Schar bedroht wird, werden Nick Fury und sein Team all ihre Kräfte brauchen, um die Welt vor einer Katastrophe zu bewahren ...",
     "releaseDate": "2012-04-25",
     "runtime": 143,
-    "poster": "/nwdcPGzBtex0XSOhG8vryGXKByZ.jpg",
+    "poster": "/hGTqvK9WaI74szUDPMHXrrHfiH3.jpg",
     "backdrop": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
     "providers": [
       {
@@ -1287,7 +1287,12 @@
     "runtime": 133,
     "poster": "/elU7H73qN3WEQmmfdn0CdH3q8H8.jpg",
     "backdrop": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Disney Plus",
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      }
+    ],
     "watchLink": "https://www.themoviedb.org/movie/315635-spider-man-homecoming/watch?locale=DE"
   },
   "team-thor": {
@@ -1413,7 +1418,7 @@
     "overview": "Der mächtige Titan Thanos  hat es sich zur Aufgabe gemacht das halbe Universum auszulöschen. Um diesen perfiden Plan Realität werden zu lassen, benötigt er allerdings zuerst alle sechs Infinity-Steine, die ihm in Verbindung mit einem speziell gefertigten Handschuh, gottgleiche Kräfte verleihen. Da sich unglücklicherweise auch auf der Erde zwei dieser Steine befinden, betraut er seine treu ergebene Black Order mit deren Beschaffung. Sowohl die Avengers, als auch die Guardians of the Galaxy und Thor erfahren jedoch von Thanos' Plänen und stellen sich dem Schurken entgegen. Doch mit einen derart mächtigen Gegner hatte es bisher keiner von ihnen zu tun...",
     "releaseDate": "2018-04-25",
     "runtime": 150,
-    "poster": "/7ZiYamr5yP7qKht30rfpFj4iakA.jpg",
+    "poster": "/2hj7diAFcApL2YfWwjiYCuRI4WW.jpg",
     "backdrop": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
     "providers": [
       {
@@ -1816,8 +1821,21 @@
     "releaseDate": "2019-06-28",
     "runtime": 130,
     "poster": "/mp2rchOm2nchJ3E3fPzTFzkuLd3.jpg",
-    "backdrop": "/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
-    "providers": [],
+    "backdrop": "/wqBW5ltBJu0gs26yCc8shQQV82d.jpg",
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+      },
+      {
+        "name": "Disney Plus",
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Apple TV Amazon Channel",
+        "logo": "/rerVCu9auZrgxTTiZu1criqrQzg.png"
+      }
+    ],
     "watchLink": "https://www.themoviedb.org/movie/429617-spider-man-far-from-home/watch?locale=DE"
   },
   "hawkeye": {
@@ -1889,7 +1907,12 @@
     "runtime": 159,
     "poster": "/iNKf4D0AzOj9GLq8ZyG3WZaqibL.jpg",
     "backdrop": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Disney Plus",
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      }
+    ],
     "watchLink": "https://www.themoviedb.org/movie/634649-spider-man-no-way-home/watch?locale=DE"
   },
   "doctor-strange-multiverse-of-madness": {
@@ -5744,10 +5767,6 @@
       {
         "name": "Wow Fiction Amazon Channel",
         "logo": "/mIR4wc2DLEIbn9TbtemvoX4zb26.png"
-      },
-      {
-        "name": "Sony Pictures Core Amazon Channel",
-        "logo": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/526896-morbius/watch?locale=DE"
@@ -5842,7 +5861,7 @@
     "overview": "Vier Jahre sind seit den Ereignissen von „No Way Home“ vergangen. Peter ist nun erwachsen und lebt für sich allein, nachdem er sich freiwillig aus dem Leben und den Erinnerungen derer, die er liebt, ausgelöscht hat. Er bekämpft Verbrechen in einem New York, das ihn und seinen Namen nicht mehr kennt, und widmet sich ganz dem Schutz seiner Stadt: Spider-Man in Vollzeit. Doch mit den steigenden Anforderungen löst der Druck eine überraschende körperliche Veränderung aus, die seine Existenz bedroht – gerade als eine seltsame neue Art von Verbrechen eine der mächtigsten Bedrohungen hervorbringt, denen er je gegenüberstand.",
     "releaseDate": "2026-07-29",
     "runtime": 150,
-    "poster": "/mFD3aitQ9rVM6u01xWDL2vYCKLE.jpg",
+    "poster": "/h2R2dPbIyjxXorGL6V8Mau01hJy.jpg",
     "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
     "providers": [],
     "watchLink": null
@@ -5856,7 +5875,7 @@
     "overview": "Geliebte Helden aus drei unterschiedlichen Universen befinden sich auf einem tödlichen Kollisionskurs und sehen sich einer existenziellen Bedrohung gegenüber, wie sie sie noch nie zuvor erlebt haben.",
     "releaseDate": "2026-12-16",
     "runtime": 165,
-    "poster": "/40jN1UgNAYEkGt2M0i81ghLF3cc.jpg",
+    "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
     "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "providers": [],
     "watchLink": null
