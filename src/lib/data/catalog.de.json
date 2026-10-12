@@ -262,18 +262,6 @@
       {
         "name": "Joyn Plus",
         "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
-      },
-      {
-        "name": "Kabel Eins Classics Amazon Channel",
-        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
-      },
-      {
-        "name": "Seven Entertainment Amazon Channel",
-        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
-      },
-      {
-        "name": "Magenta TV+",
-        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/10138-iron-man-2/watch?locale=DE"
@@ -342,7 +330,7 @@
     "tmdbType": "movie",
     "title": "Thor",
     "overview": "Der mächtige Thor ist ein überragender Krieger im Königreich Asgard, dessen Überheblichkeit und Arroganz seine größte Schwäche ist. Wegen seiner Gedankenlosigkeit wird ein lange vergessen geglaubter Krieg neu entfacht. Die Strafe folgt umgehend: Unter den Menschen soll Thor auf der Erde Demut lernen, was dem Krieger zunächst nicht leicht fällt. Doch dann ist er zur Stelle, als es die Menschheit mit einem übermächtigen Gegner zu tun bekommt, der Unterstützung aus Asgard zu erhalten scheint.",
-    "releaseDate": "2011-04-21",
+    "releaseDate": "2011-04-27",
     "runtime": 115,
     "poster": "/wtHxoL3zFjIrjZBCGlRTb8ao1IW.jpg",
     "backdrop": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
@@ -1286,7 +1274,7 @@
     "releaseDate": "2017-07-05",
     "runtime": 133,
     "poster": "/elU7H73qN3WEQmmfdn0CdH3q8H8.jpg",
-    "backdrop": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
+    "backdrop": "/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -1359,7 +1347,7 @@
     "tmdbType": "movie",
     "title": "Thor: Tag der Entscheidung",
     "overview": "Donnergott Thor wird auf der anderen Seite des Universums gefangengenommen. Ohne seinen nützlichen Hammer Mjölnir scheint eine Flucht nahezu ausgeschlossen. Dabei läuft ihm allmählich die Zeit davon. Denn die ebenso mächtige wie erbarmungslose Hela, die nach jahrtausendlanger Gefangenschaft aus ihrem Gefängnis freigekommen ist, macht sich daran, die Macht auf Thors Heimatwelt Asgard zu übernehmen. Um das zu verhindern, setzt Thor alles daran, nach Hause zurückzukehren. Zwischen ihm und seiner Freiheit stehen jedoch tödliche Gladiatorenkämpfe auf dem Planeten Sakaar, die Mülldeponie des Universums. Bei einem dieser Duelle trifft Thor auf den Ex-Avenger und seinen früheren Mitstreiter Hulk den beliebtesten und erfolgreichsten Kämpfer auf Sakaar…",
-    "releaseDate": "2017-10-02",
+    "releaseDate": "2017-10-24",
     "runtime": 131,
     "poster": "/8etFULS6CRN39vvXykQH1mUD1yB.jpg",
     "backdrop": "/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
@@ -2412,7 +2400,7 @@
     "overview": "Peter Quill, der immer noch unter dem Verlust von Gamora leidet, muss sein Team um sich versammeln, um das Universum zu verteidigen und gleichzeitig einen der Seinen zu schützen. Eine Mission, die, wenn sie nicht erfolgreich abgeschlossen wird, möglicherweise zum Ende der Guardians, wie wir sie kennen, führen könnte.",
     "releaseDate": "2023-05-03",
     "runtime": 150,
-    "poster": "/jrz8nDZH6u3Xfpl74q2xeaS33RL.jpg",
+    "poster": "/d1DEggMecolWV6ZUcrygiLAqxOJ.jpg",
     "backdrop": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
     "providers": [
       {
@@ -2675,7 +2663,7 @@
     "releaseDate": "2025-03-04",
     "runtime": null,
     "poster": "/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg",
-    "backdrop": "/m291MEBjhuRqb0nh9ojnm9gzScq.jpg",
+    "backdrop": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
     "season": 1,
     "episodes": [
       {
@@ -2751,7 +2739,7 @@
     "releaseDate": "2026-03-24",
     "runtime": null,
     "poster": "/timvsedxh5ce795tsv6EDTZmmXW.jpg",
-    "backdrop": "/m291MEBjhuRqb0nh9ojnm9gzScq.jpg",
+    "backdrop": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
     "season": 2,
     "episodes": [
       {
@@ -2820,7 +2808,7 @@
     "overview": "Nachdem sie in eine von Valentina Allegra de Fontaine gestellte tödliche Falle geraten sind, begibt sich ein ungewöhnliches Antihelden-Team auf eine gefährliche Mission. Wird sich diese dysfunktionale Gruppe, die sich den dunkelsten Ecken ihrer Vergangenheit stellen muss, gegenseitig ins Unglück stürzen oder Erlösung finden und zusammenarbeiten, bevor es zu spät ist?",
     "releaseDate": "2025-04-30",
     "runtime": 126,
-    "poster": "/7valL7vfG9nB3nwlNhPsrodceBp.jpg",
+    "poster": "/6uWxh2pJlQ40wSYF7axq6IBhK3J.jpg",
     "backdrop": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
     "providers": [
       {
@@ -3012,31 +3000,31 @@
         "season": 1,
         "number": 4,
         "title": "Folge 4",
-        "airDate": "2026-10-28"
+        "airDate": "2026-10-21"
       },
       {
         "season": 1,
         "number": 5,
         "title": "Folge 5",
-        "airDate": null
+        "airDate": "2026-10-28"
       },
       {
         "season": 1,
         "number": 6,
         "title": "Folge 6",
-        "airDate": null
+        "airDate": "2026-10-28"
       },
       {
         "season": 1,
         "number": 7,
         "title": "Folge 7",
-        "airDate": null
+        "airDate": "2026-11-04"
       },
       {
         "season": 1,
         "number": 8,
         "title": "Folge 8",
-        "airDate": null
+        "airDate": "2026-11-11"
       }
     ],
     "providers": [],
@@ -4645,7 +4633,7 @@
     "tmdbType": "tv",
     "title": "Marvel's Runaways",
     "overview": "Die Ausreißer haben ihr Zuhause (und ihre bösen Eltern) zurückgelassen und müssen nun lernen, alleine zu leben. Während sie nach Nahrung suchen, Schutz suchen und sich umeinander kümmern, beginnen unsere Kinder zu begreifen, dass sie im Guten wie im Schlechten aneinander festhalten. Und es liegt an ihnen, PRIDE ein für alle Mal zu besiegen. Aber jemand hat Jonah eine mysteriöse Nachricht geschickt ... Gibt es einen Maulwurf in den Runaways? Währenddessen konzentriert sich PRIDE darauf, ihre Kinder zu finden, und Jonah hat seinen eigenen gefährlichen Plan im Sinn.",
-    "releaseDate": "2018-12-21",
+    "releaseDate": "2018-12-20",
     "runtime": 50,
     "poster": "/r2e50wFzTsMgsSVLAyIB8uX1EGu.jpg",
     "backdrop": "/pHURd96EW167jUd2Jf8XpgTiLJV.jpg",
@@ -5122,7 +5110,7 @@
     "tmdbType": "tv",
     "title": "Marvel's Runaways",
     "overview": "Die Ausreißer suchen verzweifelt nach ihren gefangenen Freunden Chase, Gert und Karolina. Die Kinder liefern sich ein Kopf-an-Kopf-Rennen mit einem unaufhaltsamen Feind, der es auf Leslie abgesehen hat – oder genauer gesagt, auf das Kind, das sie trägt. Nico entführt sie alle in ein dunkles Reich, in dem der Herrscher Morgan le Fay viel ruchloser ist als alle anderen, mit denen die Kinder bisher konfrontiert wurden.",
-    "releaseDate": "2019-12-13",
+    "releaseDate": "2019-12-12",
     "runtime": 50,
     "poster": "/m83skvEvoFQoo1szIMpFQ6kbCe6.jpg",
     "backdrop": "/pHURd96EW167jUd2Jf8XpgTiLJV.jpg",
@@ -5861,10 +5849,10 @@
     "overview": "Vier Jahre sind seit den Ereignissen von „No Way Home“ vergangen. Peter ist nun erwachsen und lebt für sich allein, nachdem er sich freiwillig aus dem Leben und den Erinnerungen derer, die er liebt, ausgelöscht hat. Er bekämpft Verbrechen in einem New York, das ihn und seinen Namen nicht mehr kennt, und widmet sich ganz dem Schutz seiner Stadt: Spider-Man in Vollzeit. Doch mit den steigenden Anforderungen löst der Druck eine überraschende körperliche Veränderung aus, die seine Existenz bedroht – gerade als eine seltsame neue Art von Verbrechen eine der mächtigsten Bedrohungen hervorbringt, denen er je gegenüberstand.",
     "releaseDate": "2026-07-29",
     "runtime": 150,
-    "poster": "/h2R2dPbIyjxXorGL6V8Mau01hJy.jpg",
-    "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "poster": "/xT3lJ57sQ13iHDIDC01wt6P7YL2.jpg",
+    "backdrop": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
     "providers": [],
-    "watchLink": null
+    "watchLink": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=DE"
   },
   "avengers-doomsday": {
     "id": "avengers-doomsday",
