@@ -223,22 +223,6 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
-      },
-      {
-        "name": "Joyn Plus",
-        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
-      },
-      {
-        "name": "Kabel Eins Classics Amazon Channel",
-        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
-      },
-      {
-        "name": "Seven Entertainment Amazon Channel",
-        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
-      },
-      {
-        "name": "Magenta TV+",
-        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/1726-iron-man/watch?locale=DE"
@@ -258,10 +242,6 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
-      },
-      {
-        "name": "Joyn Plus",
-        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/10138-iron-man-2/watch?locale=DE"
@@ -395,22 +375,6 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
-      },
-      {
-        "name": "Joyn Plus",
-        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
-      },
-      {
-        "name": "Kabel Eins Classics Amazon Channel",
-        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
-      },
-      {
-        "name": "Seven Entertainment Amazon Channel",
-        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
-      },
-      {
-        "name": "Magenta TV+",
-        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/68721-iron-man-3/watch?locale=DE"
@@ -2971,64 +2935,69 @@
     "imdbId": "tt23112594",
     "tmdbType": "tv",
     "title": "VisionQuest",
-    "overview": "The Vision, rebooted and having escaped from those who sought to weaponize him, has been in hiding. Searching for new meaning, he consults the AI personas embedded in his programming, including F.R.I.D.A.Y., E.D.I.T.H., J.A.R.V.I.S., and the infamous Ultron. His discreet existence ends when a bounty placed on his head thrusts him on the run with Thomas Shepard, a mysterious boy who may be Vision's son, reincarnate. As Vision evades capture, he must confront his nature, resist Ultron's influence, and unravel the enigma that is his young companion if he's to survive.",
-    "releaseDate": "2026-10-14",
+    "overview": "The Vision, rebooted and having escaped from those who sought to weaponize him, has been in hiding. Searching for new meaning, he consults the AI personas embedded in his programming, including Friday, Edith, Jarvis, and the infamous Ultron. His discreet existence ends when a bounty placed on his head thrusts him on the run with Thomas Shepherd, a mysterious boy who may be Vision's son reincarnate. As Vision evades capture, he must confront his nature, resist Ultron's influence, and unravel the enigma that is his young companion if he's to survive.",
+    "releaseDate": "2026-10-13",
     "runtime": null,
     "poster": "/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-    "backdrop": "/v50p9hearMiu6BlYfp4O7FACmXl.jpg",
+    "backdrop": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
     "season": 1,
     "episodes": [
       {
         "season": 1,
         "number": 1,
-        "title": "Episode 1",
-        "airDate": "2026-10-14"
+        "title": "No Strings",
+        "airDate": "2026-10-13"
       },
       {
         "season": 1,
         "number": 2,
-        "title": "Episode 2",
-        "airDate": "2026-10-14"
+        "title": "Theseus",
+        "airDate": "2026-10-13"
       },
       {
         "season": 1,
         "number": 3,
-        "title": "Episode 3",
-        "airDate": "2026-10-21"
+        "title": "Reboot",
+        "airDate": "2026-10-20"
       },
       {
         "season": 1,
         "number": 4,
-        "title": "Episode 4",
-        "airDate": "2026-10-21"
+        "title": "Malware",
+        "airDate": "2026-10-20"
       },
       {
         "season": 1,
         "number": 5,
-        "title": "Episode 5",
-        "airDate": "2026-10-28"
+        "title": "Firewall",
+        "airDate": "2026-10-27"
       },
       {
         "season": 1,
         "number": 6,
-        "title": "Episode 6",
-        "airDate": "2026-10-28"
+        "title": "Deadlock",
+        "airDate": "2026-10-27"
       },
       {
         "season": 1,
         "number": 7,
-        "title": "Episode 7",
-        "airDate": "2026-11-04"
+        "title": "Immolation",
+        "airDate": "2026-11-03"
       },
       {
         "season": 1,
         "number": 8,
-        "title": "Episode 8",
-        "airDate": "2026-11-11"
+        "title": "Forever",
+        "airDate": "2026-11-10"
       }
     ],
-    "providers": [],
-    "watchLink": null
+    "providers": [
+      {
+        "name": "Disney Plus",
+        "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      }
+    ],
+    "watchLink": "https://www.themoviedb.org/tv/213375-visionquest/watch?locale=DE"
   },
   "agents-of-shield-s3": {
     "id": "agents-of-shield-s3",
@@ -5671,10 +5640,6 @@
     "backdrop": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
     "providers": [
       {
-        "name": "Joyn",
-        "logo": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png"
-      },
-      {
         "name": "RTL+",
         "logo": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png"
       },
@@ -5733,10 +5698,6 @@
     "backdrop": "/jzWT0zd8U77fqWg5WgUfYaMzSFz.jpg",
     "providers": [
       {
-        "name": "Amazon Prime Video",
-        "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-      },
-      {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       },
@@ -5745,8 +5706,8 @@
         "logo": "/2o26YwA7tXQ7I6CSrMvO9Rj4oNi.png"
       },
       {
-        "name": "Amazon Prime Video with Ads",
-        "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+        "name": "ZDF",
+        "logo": "/sQsgEUFPgsuJaBf68OJ7s6ht6ta.png"
       },
       {
         "name": "Magenta TV+",
@@ -5836,6 +5797,10 @@
       {
         "name": "RTL+ Max Amazon Channel",
         "logo": "/4a1AfcgwF3QeEmRkgbpFj3QZdJn.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/539972-kraven-the-hunter/watch?locale=DE"
@@ -5850,7 +5815,7 @@
     "releaseDate": "2026-07-29",
     "runtime": 145,
     "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+    "backdrop": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=DE"
   },
@@ -5864,7 +5829,7 @@
     "releaseDate": "2026-12-16",
     "runtime": 165,
     "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-    "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+    "backdrop": "/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
     "providers": [],
     "watchLink": null
   },
