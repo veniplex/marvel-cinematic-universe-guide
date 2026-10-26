@@ -332,7 +332,7 @@
     "releaseDate": "2012-04-25",
     "runtime": 143,
     "poster": "/hGTqvK9WaI74szUDPMHXrrHfiH3.jpg",
-    "backdrop": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+    "backdrop": "/86IbFy98QjRIqg6WanKYb9tXNbJ.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -351,7 +351,7 @@
     "releaseDate": "2012-08-29",
     "runtime": 11,
     "poster": "/hnSxG8clwLuAXEkp9emc8HCUcHD.jpg",
-    "backdrop": "/pC36ONAaKMXStlvutYFcAbMemCM.jpg",
+    "backdrop": "/mli3yXV5umu0Hsy5Fww6whIJYyg.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -389,7 +389,7 @@
     "releaseDate": "2014-02-04",
     "runtime": 13,
     "poster": "/qlGO4xMkHxJ5jzxkPeympC2lOWk.jpg",
-    "backdrop": "/yoigAFjhEhJM6O6hQT9TiKH6EL7.jpg",
+    "backdrop": "/bqlB2qn10NgjMFloZrOdQBEqjga.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -427,7 +427,7 @@
     "releaseDate": "2014-03-20",
     "runtime": 128,
     "poster": "/14vWmCoZHXajYmtqSsswWpSOdrd.jpg",
-    "backdrop": "/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg",
+    "backdrop": "/jJvrPQAHFKmz4pVano4UtWTsRgA.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -792,7 +792,7 @@
     "releaseDate": "2022-08-10",
     "runtime": null,
     "poster": "/opBV4WFBDo3iLZbH855LxgKz5Ju.jpg",
-    "backdrop": "/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
+    "backdrop": "/AcqVeohiVgGEFTKwjvL57YHsnGU.jpg",
     "season": 1,
     "episodes": [
       {
@@ -844,7 +844,7 @@
     "releaseDate": "2023-09-06",
     "runtime": null,
     "poster": "/qbJsIJpPxicIVHr3fmghkfV3IWF.jpg",
-    "backdrop": "/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
+    "backdrop": "/AcqVeohiVgGEFTKwjvL57YHsnGU.jpg",
     "season": 2,
     "episodes": [
       {
@@ -1238,7 +1238,7 @@
     "releaseDate": "2017-07-05",
     "runtime": 133,
     "poster": "/elU7H73qN3WEQmmfdn0CdH3q8H8.jpg",
-    "backdrop": "/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
+    "backdrop": "/lAsr1ytUq0ATWdCbcjf59pupPFy.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -1598,7 +1598,7 @@
     "tmdbType": "tv",
     "title": "WandaVision",
     "overview": "Wanda Maximoff (Elizabeth Olsen) aka Scarlett Witch hat ihren Lebensgefährten Android Vision (Paul Bettany) verloren – und schafft sich mit ihren Kräften und in Realitätsflucht eine eigene, an amerikanische Sitcoms angelehnte Fantasie-Welt, in der sie mit ihm lebt – ein psychisch alles andere als gesunder Zustand … Letztendlich wird sie sich aus dem Geflecht ihrer eigenen Gedanken und verzerrten Realitäten befreien müssen. Aber gibt es jemand, der sie für seine Zwecke manipuliert? Wer kann Wanda helfen, in die Realität zurückzufinden?",
-    "releaseDate": "2021-01-15",
+    "releaseDate": "2021-01-14",
     "runtime": null,
     "poster": "/8BSVNGpZwZDScVv8e5S1c8XIjeJ.jpg",
     "backdrop": "/cq62fLH3vwOmiaLKMqkDI86tPtH.jpg",
@@ -2935,7 +2935,7 @@
     "imdbId": "tt23112594",
     "tmdbType": "tv",
     "title": "VisionQuest",
-    "overview": "Im Zentrum der Fortsetzung der MCU-Serie „WandaVision“ steht die jüngste Inkarnation des Charakters White Vision (Paul Bettany), zuletzt an der Seite von Wanda Maximoff (Elizabeth Olsen) zu sehen, und sein Versuch, sein Gedächtnis und seine Menschlichkeit wiederzuerlangen.",
+    "overview": "Nach Visions Flucht vor jenen, die ihn als Waffe missbrauchen wollten, führt er ein Leben im Verborgenen. Auf der Suche nach einer neuen Bestimmung zieht er auch die diversen KIs zu Rate, die innerhalb seiner Programmierung ein neues Zuhause gefunden haben. Unter ihnen befinden sich nicht nur Friday, Edith und Jarvis, sondern auch der berüchtigte Ultron. Doch Visions unauffällige Existenz findet ein abruptes Ende, als ein Kopfgeld auf ihn ausgesetzt wird. Auf der Flucht schließt er sich Thomas Shepherd an, einem geheimnisvollen Jungen, bei dem es sich um Visions wiedergeborenen Sohn handeln könnte. Dabei sieht sich Vision zunehmend gezwungen, sich seiner eigenen Natur zu stellen, Ultrons Einfluss zu widerstehen und das Rätsel um seinen jungen Begleiter zu entschlüsseln.",
     "releaseDate": "2026-10-13",
     "runtime": null,
     "poster": "/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
@@ -2957,13 +2957,13 @@
       {
         "season": 1,
         "number": 3,
-        "title": "Folge 3",
+        "title": "Neustart",
         "airDate": "2026-10-20"
       },
       {
         "season": 1,
         "number": 4,
-        "title": "Folge 4",
+        "title": "Malware",
         "airDate": "2026-10-20"
       },
       {
@@ -4602,7 +4602,7 @@
     "tmdbType": "tv",
     "title": "Marvel's Runaways",
     "overview": "Die Ausreißer haben ihr Zuhause (und ihre bösen Eltern) zurückgelassen und müssen nun lernen, alleine zu leben. Während sie nach Nahrung suchen, Schutz suchen und sich umeinander kümmern, beginnen unsere Kinder zu begreifen, dass sie im Guten wie im Schlechten aneinander festhalten. Und es liegt an ihnen, PRIDE ein für alle Mal zu besiegen. Aber jemand hat Jonah eine mysteriöse Nachricht geschickt ... Gibt es einen Maulwurf in den Runaways? Währenddessen konzentriert sich PRIDE darauf, ihre Kinder zu finden, und Jonah hat seinen eigenen gefährlichen Plan im Sinn.",
-    "releaseDate": "2018-12-20",
+    "releaseDate": "2018-12-21",
     "runtime": 50,
     "poster": "/r2e50wFzTsMgsSVLAyIB8uX1EGu.jpg",
     "backdrop": "/pHURd96EW167jUd2Jf8XpgTiLJV.jpg",
@@ -5079,7 +5079,7 @@
     "tmdbType": "tv",
     "title": "Marvel's Runaways",
     "overview": "Die Ausreißer suchen verzweifelt nach ihren gefangenen Freunden Chase, Gert und Karolina. Die Kinder liefern sich ein Kopf-an-Kopf-Rennen mit einem unaufhaltsamen Feind, der es auf Leslie abgesehen hat – oder genauer gesagt, auf das Kind, das sie trägt. Nico entführt sie alle in ein dunkles Reich, in dem der Herrscher Morgan le Fay viel ruchloser ist als alle anderen, mit denen die Kinder bisher konfrontiert wurden.",
-    "releaseDate": "2019-12-12",
+    "releaseDate": "2019-12-13",
     "runtime": 50,
     "poster": "/m83skvEvoFQoo1szIMpFQ6kbCe6.jpg",
     "backdrop": "/pHURd96EW167jUd2Jf8XpgTiLJV.jpg",
@@ -5706,10 +5706,6 @@
         "logo": "/2o26YwA7tXQ7I6CSrMvO9Rj4oNi.png"
       },
       {
-        "name": "ZDF",
-        "logo": "/sQsgEUFPgsuJaBf68OJ7s6ht6ta.png"
-      },
-      {
         "name": "Magenta TV+",
         "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       },
@@ -5787,14 +5783,6 @@
     "backdrop": "/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg",
     "providers": [
       {
-        "name": "Joyn",
-        "logo": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png"
-      },
-      {
-        "name": "RTL+",
-        "logo": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png"
-      },
-      {
         "name": "RTL+ Max Amazon Channel",
         "logo": "/4a1AfcgwF3QeEmRkgbpFj3QZdJn.png"
       },
@@ -5814,7 +5802,7 @@
     "overview": "Vier Jahre sind seit den Ereignissen von „No Way Home“ vergangen. Peter ist nun erwachsen und lebt für sich allein, nachdem er sich freiwillig aus dem Leben und den Erinnerungen derer, die er liebt, ausgelöscht hat. Er bekämpft Verbrechen in einem New York, das ihn und seinen Namen nicht mehr kennt, und widmet sich ganz dem Schutz seiner Stadt: Spider-Man in Vollzeit. Doch mit den steigenden Anforderungen löst der Druck eine überraschende körperliche Veränderung aus, die seine Existenz bedroht – gerade als eine seltsame neue Art von Verbrechen eine der mächtigsten Bedrohungen hervorbringt, denen er je gegenüberstand.",
     "releaseDate": "2026-07-29",
     "runtime": 150,
-    "poster": "/xT3lJ57sQ13iHDIDC01wt6P7YL2.jpg",
+    "poster": "/h2R2dPbIyjxXorGL6V8Mau01hJy.jpg",
     "backdrop": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=DE"
