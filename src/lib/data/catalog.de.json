@@ -332,7 +332,7 @@
     "releaseDate": "2012-04-25",
     "runtime": 143,
     "poster": "/hGTqvK9WaI74szUDPMHXrrHfiH3.jpg",
-    "backdrop": "/86IbFy98QjRIqg6WanKYb9tXNbJ.jpg",
+    "backdrop": "/gHLs7Fy3DzLmLsD4lmfqL55KGcl.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -370,7 +370,7 @@
     "releaseDate": "2013-04-18",
     "runtime": 140,
     "poster": "/h0vJ6sTYWQmqenNqRa1IiW1t0Ys.jpg",
-    "backdrop": "/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
+    "backdrop": "/4TSqtluelcWByj8YZdqwzQVjI0O.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -1601,7 +1601,7 @@
     "releaseDate": "2021-01-14",
     "runtime": null,
     "poster": "/8BSVNGpZwZDScVv8e5S1c8XIjeJ.jpg",
-    "backdrop": "/cq62fLH3vwOmiaLKMqkDI86tPtH.jpg",
+    "backdrop": "/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
     "season": 1,
     "episodes": [
       {
@@ -2939,7 +2939,7 @@
     "releaseDate": "2026-10-13",
     "runtime": null,
     "poster": "/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-    "backdrop": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "backdrop": "/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
     "season": 1,
     "episodes": [
       {
@@ -2969,13 +2969,13 @@
       {
         "season": 1,
         "number": 5,
-        "title": "Folge 5",
+        "title": "Firewall",
         "airDate": "2026-10-27"
       },
       {
         "season": 1,
         "number": 6,
-        "title": "Folge 6",
+        "title": "Sackgasse",
         "airDate": "2026-10-27"
       },
       {
@@ -3469,7 +3469,7 @@
     "overview": "Als kugelsicherer Beschützer von Harlem kämpft Luke Cage gegen korrupte Politiker, skrupellose Gangster und die Dämonen aus seiner eigenen Vergangenheit.",
     "releaseDate": "2016-09-30",
     "runtime": 46,
-    "poster": "/hBbPrnlkpxod0Zq14wsPlaLOemG.jpg",
+    "poster": "/8Z875pkCNeufkTQrHjdPcaHi7NP.jpg",
     "backdrop": "/bJOmop22SGTHPo1tiuVAFf4U7B9.jpg",
     "season": 1,
     "episodes": [
@@ -4322,7 +4322,7 @@
     "overview": "Auf dem Höhepunkt seines Ruhms und seiner Verantwortung wird Luke Cages Welt von einem Neuankömmling mit erstaunlichen Kräften und Übernahmeplänen für Harlem erschüttert.",
     "releaseDate": "2018-06-22",
     "runtime": 46,
-    "poster": "/xe9VGtjJ1vsSKtAnoXEnVdUqyxb.jpg",
+    "poster": "/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
     "backdrop": "/bJOmop22SGTHPo1tiuVAFf4U7B9.jpg",
     "season": 2,
     "episodes": [
@@ -5671,10 +5671,6 @@
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       },
       {
-        "name": "Joyn",
-        "logo": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png"
-      },
-      {
         "name": "RTL+",
         "logo": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png"
       },
@@ -5803,7 +5799,7 @@
     "releaseDate": "2026-07-29",
     "runtime": 150,
     "poster": "/h2R2dPbIyjxXorGL6V8Mau01hJy.jpg",
-    "backdrop": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+    "backdrop": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=DE"
   },
@@ -5817,7 +5813,7 @@
     "releaseDate": "2026-12-16",
     "runtime": 165,
     "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-    "backdrop": "/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+    "backdrop": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "providers": [],
     "watchLink": null
   },

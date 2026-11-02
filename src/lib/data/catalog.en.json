@@ -332,7 +332,7 @@
     "releaseDate": "2012-04-25",
     "runtime": 143,
     "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
-    "backdrop": "/86IbFy98QjRIqg6WanKYb9tXNbJ.jpg",
+    "backdrop": "/gHLs7Fy3DzLmLsD4lmfqL55KGcl.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -370,7 +370,7 @@
     "releaseDate": "2013-04-18",
     "runtime": 130,
     "poster": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
-    "backdrop": "/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
+    "backdrop": "/4TSqtluelcWByj8YZdqwzQVjI0O.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -843,7 +843,7 @@
     "overview": "The troublemaking twig returns to mischief in the second season of “I Am Groot.” This time, Baby Groot finds himself exploring the universe and beyond aboard the Guardians' spaceships, coming face-to-face—or nose-to-nose—with new and colorful creatures and environments.",
     "releaseDate": "2023-09-06",
     "runtime": null,
-    "poster": "/7b4qBnExIjuANVDKWyVN8gVVOXS.jpg",
+    "poster": "/fIpWoy8car9aiqyw0y1EZRxZZ4x.jpg",
     "backdrop": "/AcqVeohiVgGEFTKwjvL57YHsnGU.jpg",
     "season": 2,
     "episodes": [
@@ -1601,7 +1601,7 @@
     "releaseDate": "2021-01-14",
     "runtime": null,
     "poster": "/8BSVNGpZwZDScVv8e5S1c8XIjeJ.jpg",
-    "backdrop": "/cq62fLH3vwOmiaLKMqkDI86tPtH.jpg",
+    "backdrop": "/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
     "season": 1,
     "episodes": [
       {
@@ -2939,7 +2939,7 @@
     "releaseDate": "2026-10-13",
     "runtime": null,
     "poster": "/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-    "backdrop": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "backdrop": "/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
     "season": 1,
     "episodes": [
       {
@@ -3469,7 +3469,7 @@
     "overview": "As the bulletproof defender of Harlem, Luke Cage battles corrupt politicians, ruthless gangsters and demons from his own past.",
     "releaseDate": "2016-09-30",
     "runtime": 46,
-    "poster": "/hBbPrnlkpxod0Zq14wsPlaLOemG.jpg",
+    "poster": "/8Z875pkCNeufkTQrHjdPcaHi7NP.jpg",
     "backdrop": "/bJOmop22SGTHPo1tiuVAFf4U7B9.jpg",
     "season": 1,
     "episodes": [
@@ -4322,7 +4322,7 @@
     "overview": "As his fame and responsibility soar, Luke Cage finds his life upended by a mysterious newcomer with powers of his own -- and a plan to take over Harlem.",
     "releaseDate": "2018-06-22",
     "runtime": 46,
-    "poster": "/xe9VGtjJ1vsSKtAnoXEnVdUqyxb.jpg",
+    "poster": "/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
     "backdrop": "/bJOmop22SGTHPo1tiuVAFf4U7B9.jpg",
     "season": 2,
     "episodes": [
@@ -5671,10 +5671,6 @@
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
       },
       {
-        "name": "Joyn",
-        "logo": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png"
-      },
-      {
         "name": "RTL+",
         "logo": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png"
       },
@@ -5803,7 +5799,7 @@
     "releaseDate": "2026-07-29",
     "runtime": 145,
     "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+    "backdrop": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=DE"
   },
@@ -5816,8 +5812,8 @@
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "releaseDate": "2026-12-16",
     "runtime": 165,
-    "poster": "/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
-    "backdrop": "/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+    "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "backdrop": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "providers": [],
     "watchLink": null
   },
