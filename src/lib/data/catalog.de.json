@@ -223,6 +223,22 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn",
+        "logo": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png"
+      },
+      {
+        "name": "Kabel Eins Classics Amazon Channel",
+        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
+      },
+      {
+        "name": "Seven Entertainment Amazon Channel",
+        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
+      },
+      {
+        "name": "Magenta TV+",
+        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/1726-iron-man/watch?locale=DE"
@@ -242,6 +258,22 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
+      },
+      {
+        "name": "Kabel Eins Classics Amazon Channel",
+        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
+      },
+      {
+        "name": "Seven Entertainment Amazon Channel",
+        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
+      },
+      {
+        "name": "Magenta TV+",
+        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/10138-iron-man-2/watch?locale=DE"
@@ -259,8 +291,16 @@
     "backdrop": "/xfBnQ4mgf1jYZsscJGJjr6ce0Ar.jpg",
     "providers": [
       {
+        "name": "Filmtastic Amazon Channel",
+        "logo": "/ptmzPMNuPJXi3zc48EJ1rXElSBz.png"
+      },
+      {
         "name": "Joyn Plus",
         "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
+      },
+      {
+        "name": "Filmtastic",
+        "logo": "/2yW0yfLSrWLaEMhE1kfHHq7OAbn.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/1724-the-incredible-hulk/watch?locale=DE"
@@ -332,7 +372,7 @@
     "releaseDate": "2012-04-25",
     "runtime": 143,
     "poster": "/hGTqvK9WaI74szUDPMHXrrHfiH3.jpg",
-    "backdrop": "/gHLs7Fy3DzLmLsD4lmfqL55KGcl.jpg",
+    "backdrop": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -375,6 +415,22 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
+      },
+      {
+        "name": "Kabel Eins Classics Amazon Channel",
+        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
+      },
+      {
+        "name": "Seven Entertainment Amazon Channel",
+        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
+      },
+      {
+        "name": "Magenta TV+",
+        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/68721-iron-man-3/watch?locale=DE"
@@ -2938,8 +2994,8 @@
     "overview": "Nach Visions Flucht vor jenen, die ihn als Waffe missbrauchen wollten, führt er ein Leben im Verborgenen. Auf der Suche nach einer neuen Bestimmung zieht er auch die diversen KIs zu Rate, die innerhalb seiner Programmierung ein neues Zuhause gefunden haben. Unter ihnen befinden sich nicht nur Friday, Edith und Jarvis, sondern auch der berüchtigte Ultron. Doch Visions unauffällige Existenz findet ein abruptes Ende, als ein Kopfgeld auf ihn ausgesetzt wird. Auf der Flucht schließt er sich Thomas Shepherd an, einem geheimnisvollen Jungen, bei dem es sich um Visions wiedergeborenen Sohn handeln könnte. Dabei sieht sich Vision zunehmend gezwungen, sich seiner eigenen Natur zu stellen, Ultrons Einfluss zu widerstehen und das Rätsel um seinen jungen Begleiter zu entschlüsseln.",
     "releaseDate": "2026-10-13",
     "runtime": null,
-    "poster": "/mKOj29RCB0pNqnXL3CTlMLPUWNg.jpg",
-    "backdrop": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+    "poster": "/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+    "backdrop": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
     "season": 1,
     "episodes": [
       {
@@ -2987,7 +3043,7 @@
       {
         "season": 1,
         "number": 8,
-        "title": "Folge 8",
+        "title": "Für immer",
         "airDate": "2026-11-10"
       }
     ],
@@ -3810,7 +3866,7 @@
     "releaseDate": "2017-11-17",
     "runtime": 53,
     "poster": "/dOkJ6TJKQjsz2XwXyp2VYpkeE5g.jpg",
-    "backdrop": "/9czVEnJemvP6gcJlMEjUeuISL1c.jpg",
+    "backdrop": "/jBGjbSDRxOEudW9rmQbWDzJUKq9.jpg",
     "season": 1,
     "episodes": [
       {
@@ -4700,7 +4756,7 @@
     "releaseDate": "2019-01-18",
     "runtime": 53,
     "poster": "/agNYq5XZnGfmYetUMyyM2RdPY70.jpg",
-    "backdrop": "/9czVEnJemvP6gcJlMEjUeuISL1c.jpg",
+    "backdrop": "/jBGjbSDRxOEudW9rmQbWDzJUKq9.jpg",
     "season": 2,
     "episodes": [
       {
@@ -5799,7 +5855,7 @@
     "releaseDate": "2026-07-29",
     "runtime": 150,
     "poster": "/h2R2dPbIyjxXorGL6V8Mau01hJy.jpg",
-    "backdrop": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+    "backdrop": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=DE"
   },
@@ -5812,7 +5868,7 @@
     "overview": "Geliebte Helden aus drei unterschiedlichen Universen befinden sich auf einem tödlichen Kollisionskurs und sehen sich einer existenziellen Bedrohung gegenüber, wie sie sie noch nie zuvor erlebt haben.",
     "releaseDate": "2026-12-16",
     "runtime": 165,
-    "poster": "/9jlZ59UALLLOE279HMT19rP9XQs.jpg",
+    "poster": "/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
     "backdrop": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "providers": [],
     "watchLink": null

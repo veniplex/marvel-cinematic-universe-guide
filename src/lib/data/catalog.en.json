@@ -223,6 +223,22 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn",
+        "logo": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png"
+      },
+      {
+        "name": "Kabel Eins Classics Amazon Channel",
+        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
+      },
+      {
+        "name": "Seven Entertainment Amazon Channel",
+        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
+      },
+      {
+        "name": "Magenta TV+",
+        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/1726-iron-man/watch?locale=DE"
@@ -242,6 +258,22 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
+      },
+      {
+        "name": "Kabel Eins Classics Amazon Channel",
+        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
+      },
+      {
+        "name": "Seven Entertainment Amazon Channel",
+        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
+      },
+      {
+        "name": "Magenta TV+",
+        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/10138-iron-man-2/watch?locale=DE"
@@ -259,8 +291,16 @@
     "backdrop": "/xfBnQ4mgf1jYZsscJGJjr6ce0Ar.jpg",
     "providers": [
       {
+        "name": "Filmtastic Amazon Channel",
+        "logo": "/ptmzPMNuPJXi3zc48EJ1rXElSBz.png"
+      },
+      {
         "name": "Joyn Plus",
         "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
+      },
+      {
+        "name": "Filmtastic",
+        "logo": "/2yW0yfLSrWLaEMhE1kfHHq7OAbn.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/1724-the-incredible-hulk/watch?locale=DE"
@@ -332,7 +372,7 @@
     "releaseDate": "2012-04-25",
     "runtime": 143,
     "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
-    "backdrop": "/gHLs7Fy3DzLmLsD4lmfqL55KGcl.jpg",
+    "backdrop": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
     "providers": [
       {
         "name": "Disney Plus",
@@ -366,7 +406,7 @@
     "imdbId": "tt1300854",
     "tmdbType": "movie",
     "title": "Iron Man 3",
-    "overview": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+    "overview": "Plagued with worry and insomnia since saving New York from destruction, Tony Stark, now, is more dependent on the suits that give him his Iron Man persona—so much so that every aspect of his life is affected, including his relationship with Pepper. After a malevolent enemy known as the Mandarin reduces his personal world to rubble, Tony must rely solely on instinct and ingenuity to avenge his losses and protect the people he loves, as he begins an odyssey of rebuilding and retribution.",
     "releaseDate": "2013-04-18",
     "runtime": 130,
     "poster": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
@@ -375,6 +415,22 @@
       {
         "name": "Disney Plus",
         "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+      },
+      {
+        "name": "Joyn Plus",
+        "logo": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png"
+      },
+      {
+        "name": "Kabel Eins Classics Amazon Channel",
+        "logo": "/hrvDaV3Si6T5bCIlvL8GSJTcziw.png"
+      },
+      {
+        "name": "Seven Entertainment Amazon Channel",
+        "logo": "/iI1WY8inWiaUinlobTBnTKTcShC.png"
+      },
+      {
+        "name": "Magenta TV+",
+        "logo": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png"
       }
     ],
     "watchLink": "https://www.themoviedb.org/movie/68721-iron-man-3/watch?locale=DE"
@@ -843,7 +899,7 @@
     "overview": "The troublemaking twig returns to mischief in the second season of “I Am Groot.” This time, Baby Groot finds himself exploring the universe and beyond aboard the Guardians' spaceships, coming face-to-face—or nose-to-nose—with new and colorful creatures and environments.",
     "releaseDate": "2023-09-06",
     "runtime": null,
-    "poster": "/fIpWoy8car9aiqyw0y1EZRxZZ4x.jpg",
+    "poster": "/7b4qBnExIjuANVDKWyVN8gVVOXS.jpg",
     "backdrop": "/AcqVeohiVgGEFTKwjvL57YHsnGU.jpg",
     "season": 2,
     "episodes": [
@@ -2938,8 +2994,8 @@
     "overview": "The Vision, rebooted and having escaped from those who sought to weaponize him, has been in hiding. Searching for new meaning, he consults the AI personas embedded in his programming, including Friday, Edith, Jarvis, and the infamous Ultron. His discreet existence ends when a bounty placed on his head thrusts him on the run with Thomas Shepherd, a mysterious boy who may be Vision's son reincarnate. As Vision evades capture, he must confront his nature, resist Ultron's influence, and unravel the enigma that is his young companion if he's to survive.",
     "releaseDate": "2026-10-13",
     "runtime": null,
-    "poster": "/mKOj29RCB0pNqnXL3CTlMLPUWNg.jpg",
-    "backdrop": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+    "poster": "/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+    "backdrop": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
     "season": 1,
     "episodes": [
       {
@@ -3810,7 +3866,7 @@
     "releaseDate": "2017-11-17",
     "runtime": 53,
     "poster": "/dOkJ6TJKQjsz2XwXyp2VYpkeE5g.jpg",
-    "backdrop": "/9czVEnJemvP6gcJlMEjUeuISL1c.jpg",
+    "backdrop": "/jBGjbSDRxOEudW9rmQbWDzJUKq9.jpg",
     "season": 1,
     "episodes": [
       {
@@ -4700,7 +4756,7 @@
     "releaseDate": "2019-01-18",
     "runtime": 53,
     "poster": "/agNYq5XZnGfmYetUMyyM2RdPY70.jpg",
-    "backdrop": "/9czVEnJemvP6gcJlMEjUeuISL1c.jpg",
+    "backdrop": "/jBGjbSDRxOEudW9rmQbWDzJUKq9.jpg",
     "season": 2,
     "episodes": [
       {
@@ -5799,7 +5855,7 @@
     "releaseDate": "2026-07-29",
     "runtime": 145,
     "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+    "backdrop": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
     "providers": [],
     "watchLink": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=DE"
   },
@@ -5812,7 +5868,7 @@
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
     "releaseDate": "2026-12-16",
     "runtime": 165,
-    "poster": "/9jlZ59UALLLOE279HMT19rP9XQs.jpg",
+    "poster": "/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
     "backdrop": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "providers": [],
     "watchLink": null
