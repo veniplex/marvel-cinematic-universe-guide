@@ -14,6 +14,7 @@ detail pages. Live at **[mcu.guide](https://www.mcu.guide)**.
 [![Stars](https://img.shields.io/github/stars/veniplex/mcu-timeline?style=flat&logo=github&color=e0a82e)](https://github.com/veniplex/mcu-timeline/stargazers)
 [![License: Non-Commercial](https://img.shields.io/badge/License-Non--Commercial-b11313.svg)](./LICENSE)
 [![SvelteKit](https://img.shields.io/badge/SvelteKit-Svelte%205-ff3e00?logo=svelte&logoColor=white)](https://kit.svelte.dev)
+[![Update data](https://github.com/veniplex/marvel-cinematic-universe-guide/actions/workflows/update-data.yml/badge.svg)](https://github.com/veniplex/marvel-cinematic-universe-guide/actions/workflows/update-data.yml)
 
 </div>
 
