@@ -1,95 +1,72 @@
 {
   "captain-america-the-first-avenger": {
-    "imdb": "6.9",
-    "rt": "80"
+    "imdb": "6.9"
   },
   "captain-marvel": {
-    "imdb": "6.7",
-    "rt": "79"
+    "imdb": "6.7"
   },
   "iron-man": {
-    "imdb": "7.9",
-    "rt": "94"
+    "imdb": "7.9"
   },
   "iron-man-2": {
-    "imdb": "6.9",
-    "rt": "72"
+    "imdb": "6.9"
   },
   "the-incredible-hulk": {
-    "imdb": "6.6",
-    "rt": "68"
+    "imdb": "6.6"
   },
   "thor": {
-    "imdb": "7.0",
-    "rt": "77"
+    "imdb": "7.0"
   },
   "the-avengers": {
-    "imdb": "8.0",
-    "rt": "91"
+    "imdb": "8.0"
   },
   "iron-man-3": {
-    "imdb": "7.1",
-    "rt": "79"
+    "imdb": "7.1"
   },
   "thor-the-dark-world": {
-    "imdb": "6.7",
-    "rt": "67"
+    "imdb": "6.7"
   },
   "captain-america-the-winter-soldier": {
-    "imdb": "7.7",
-    "rt": "90"
+    "imdb": "7.7"
   },
   "guardians-of-the-galaxy": {
-    "imdb": "8.0",
-    "rt": "91"
+    "imdb": "8.0"
   },
   "guardians-of-the-galaxy-vol-2": {
-    "imdb": "7.6",
-    "rt": "85"
+    "imdb": "7.6"
   },
   "avengers-age-of-ultron": {
-    "imdb": "7.3",
-    "rt": "75"
+    "imdb": "7.3"
   },
   "ant-man": {
-    "imdb": "7.2",
-    "rt": "83"
+    "imdb": "7.2"
   },
   "captain-america-civil-war": {
-    "imdb": "7.8",
-    "rt": "90"
+    "imdb": "7.8"
   },
   "black-widow": {
-    "imdb": "6.6",
-    "rt": "79"
+    "imdb": "6.6"
   },
   "spider-man-homecoming": {
-    "imdb": "7.4",
-    "rt": "92"
+    "imdb": "7.4"
   },
   "black-panther": {
-    "imdb": "7.3",
-    "rt": "96"
+    "imdb": "7.3"
   },
   "doctor-strange": {
-    "imdb": "7.5",
-    "rt": "89"
+    "imdb": "7.5"
   },
   "thor-ragnarok": {
-    "imdb": "7.9",
-    "rt": "93"
+    "imdb": "7.9"
   },
   "ant-man-and-the-wasp": {
-    "imdb": "7.0",
-    "rt": "87"
+    "imdb": "7.0"
   },
   "avengers-infinity-war": {
-    "imdb": "8.4",
-    "rt": "85"
+    "imdb": "8.4"
   },
   "avengers-endgame": {
-    "imdb": "8.4",
-    "rt": "94"
+    "imdb": "8.4"
   },
   "loki-s1": {
     "imdb": "8.2",
@@ -232,16 +209,14 @@
     }
   },
   "shang-chi": {
-    "imdb": "7.3",
-    "rt": "92"
+    "imdb": "7.3"
   },
   "eternals": {
     "imdb": "6.2",
     "rt": "48"
   },
   "spider-man-far-from-home": {
-    "imdb": "7.3",
-    "rt": "91"
+    "imdb": "7.3"
   },
   "hawkeye": {
     "imdb": "7.4",
@@ -273,12 +248,10 @@
     }
   },
   "spider-man-no-way-home": {
-    "imdb": "8.1",
-    "rt": "93"
+    "imdb": "8.1"
   },
   "doctor-strange-multiverse-of-madness": {
-    "imdb": "6.8",
-    "rt": "73"
+    "imdb": "6.8"
   },
   "moon-knight": {
     "imdb": "7.3",
@@ -329,7 +302,7 @@
         "imdbId": "tt11950118"
       },
       "1-5": {
-        "imdb": "6.4",
+        "imdb": "6.5",
         "imdbId": "tt11950120"
       },
       "1-6": {
@@ -339,8 +312,7 @@
     }
   },
   "thor-love-and-thunder": {
-    "imdb": "6.1",
-    "rt": "64"
+    "imdb": "6.1"
   },
   "she-hulk": {
     "imdb": "5.2",
@@ -384,24 +356,19 @@
     }
   },
   "werewolf-by-night": {
-    "imdb": "7.1",
-    "rt": "90"
+    "imdb": "7.1"
   },
   "black-panther-wakanda-forever": {
-    "imdb": "6.6",
-    "rt": "84"
+    "imdb": "6.6"
   },
   "guardians-holiday-special": {
-    "imdb": "6.9",
-    "rt": "95"
+    "imdb": "6.9"
   },
   "ant-man-quantumania": {
-    "imdb": "6.0",
-    "rt": "46"
+    "imdb": "6.0"
   },
   "guardians-of-the-galaxy-vol-3": {
-    "imdb": "7.9",
-    "rt": "82"
+    "imdb": "7.9"
   },
   "secret-invasion": {
     "imdb": "5.8",
@@ -433,8 +400,7 @@
     }
   },
   "the-marvels": {
-    "imdb": "5.4",
-    "rt": "63"
+    "imdb": "5.4"
   },
   "agatha-all-along": {
     "imdb": "7.2",
@@ -478,12 +444,10 @@
     }
   },
   "deadpool-and-wolverine": {
-    "imdb": "7.5",
-    "rt": "77"
+    "imdb": "7.5"
   },
   "captain-america-brave-new-world": {
-    "imdb": "5.6",
-    "rt": "46"
+    "imdb": "5.6"
   },
   "daredevil-born-again-s1": {
     "imdb": "8.1",
@@ -527,8 +491,7 @@
     }
   },
   "thunderbolts": {
-    "imdb": "7.1",
-    "rt": "88"
+    "imdb": "7.1"
   },
   "ironheart": {
     "imdb": "4.5",
@@ -608,12 +571,10 @@
     }
   },
   "venom": {
-    "imdb": "6.6",
-    "rt": "31"
+    "imdb": "6.6"
   },
   "venom-let-there-be-carnage": {
-    "imdb": "5.9",
-    "rt": "58"
+    "imdb": "5.9"
   },
   "loki-s2": {
     "imdb": "8.2",
@@ -855,8 +816,7 @@
     }
   },
   "morbius": {
-    "imdb": "5.1",
-    "rt": "15"
+    "imdb": "5.1"
   },
   "agent-carter-s1": {
     "imdb": "7.8",
@@ -2759,16 +2719,13 @@
     }
   },
   "madame-web": {
-    "imdb": "4.1",
-    "rt": "10"
+    "imdb": "4.1"
   },
   "venom-the-last-dance": {
-    "imdb": "6.0",
-    "rt": "40"
+    "imdb": "6.0"
   },
   "kraven-the-hunter": {
-    "imdb": "5.5",
-    "rt": "15"
+    "imdb": "5.5"
   },
   "spider-man-brand-new-day": {
     "imdb": "7.9"
@@ -2780,7 +2737,7 @@
         "imdbId": "tt23134204"
       },
       "1-2": {
-        "imdb": "8.1",
+        "imdb": "8.0",
         "imdbId": "tt38934465"
       },
       "1-3": {
